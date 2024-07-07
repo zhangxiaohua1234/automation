@@ -5,21 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="42257865-c866-44e6-931b-83f1c2ec20e9" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/ecshop_api_test/testcase/user_center/test_user_myorder.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ecshop_api_test/utils/send_email_utils.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/autoclass29期/day09-12/ecshop_api_test" beforeDir="false" afterPath="$PROJECT_DIR$/autoclass29期/day09-12/ecshop_api_test" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/autoclass29期/day09-12/ecshop_api_test/testcase/user_center/test_login.py" beforeDir="false" afterPath="$PROJECT_DIR$/autoclass29期/day09-12/ecshop_api_test/testcase/user_center/test_login.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/autoclass_29练习/day09-12/ecshop_api_test" beforeDir="false" afterPath="$PROJECT_DIR$/autoclass_29练习/day09-12/ecshop_api_test" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/autoclass_29练习/day09-12/ecshop_api_test/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/autoclass_29练习/day09-12/ecshop_api_test/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ecshop_api_test" beforeDir="false" afterPath="$PROJECT_DIR$/ecshop_api_test" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ecshop_api_test/conftest.py" beforeDir="false" afterPath="$PROJECT_DIR$/ecshop_api_test/conftest.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ecshop_api_test/testcase/shop_index/test_search.py" beforeDir="false" afterPath="$PROJECT_DIR$/ecshop_api_test/testcase/shop_index/test_search.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ecshop_api_test/testcase/user_center/logs/test.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ecshop_api_test/testcase/user_center/test_login.py" beforeDir="false" afterPath="$PROJECT_DIR$/ecshop_api_test/testcase/user_center/test_login.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ecshop_api_test/testcase/user_center/test_register.py" beforeDir="false" afterPath="$PROJECT_DIR$/ecshop_api_test/testcase/user_center/test_register.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ecshop_api_test/utils/data_utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/ecshop_api_test/utils/data_utils.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,8 +36,11 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/autoclass29期/day09-12/ecshop_api_test" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2hKl8bAyCFstR0YHOEpxOeYGXIc" />
   <component name="ProjectViewState">
@@ -216,12 +207,36 @@
       <workItem from="1717350909151" duration="13414000" />
       <workItem from="1717773864579" duration="1663000" />
       <workItem from="1717840475780" duration="12899000" />
-      <workItem from="1718462031224" duration="10127000" />
+      <workItem from="1718462031224" duration="10441000" />
     </task>
+    <task id="LOCAL-00001" summary="全部">
+      <option name="closed" value="true" />
+      <created>1720357246937</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1720357246938</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="全部" />
+    <option name="LAST_COMMIT_MESSAGE" value="全部" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/python_files$demo_.coverage" NAME="demo-弹出框处理 覆盖结果" MODIFIED="1718209687758" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonProject10/pythonclasses/autoclass29/day02" />
