@@ -1,0 +1,10 @@
+2023-09-03 15:44:30 | INFO | data_utils.py[16L]::json_file_load
+2023-09-03 15:44:30 | INFO | test_02.py[15L]::test_02
+2023-09-03 15:44:31 | WARNING | selenium_manager.py[133L]::run
+2023-09-03 15:44:34 | INFO | test_login.py[29L]::test_login
+2023-09-03 15:44:35 | INFO | test_login.py[46L]::test_login
+2023-09-03 15:44:43 | WARNING | selenium_manager.py[133L]::run
+2023-09-03 15:44:46 | INFO | test_login.py[29L]::test_login
+2023-09-03 15:44:53 | WARNING | selenium_manager.py[133L]::run
+2023-09-03 15:44:56 | INFO | test_login.py[29L]::test_login
+2023-09-03 15:44:56 | INFO | test_login.py[46L]::test_login

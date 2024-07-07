@@ -1,0 +1,119 @@
+{
+  "uid" : "2049dfd01ccd3c8a",
+  "name" : "test_login[user2]",
+  "fullName" : "testcase.shop.test_login#test_login",
+  "historyId" : "c4cdee5765b257d200f75d154a5210b4",
+  "time" : {
+    "start" : 1693726821300,
+    "stop" : 1693726821777,
+    "duration" : 477
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ {
+    "name" : "_session_faker",
+    "time" : {
+      "start" : 1693726796308,
+      "stop" : 1693726796647,
+      "duration" : 339
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  }, {
+    "name" : "driver",
+    "time" : {
+      "start" : 1693726817904,
+      "stop" : 1693726821299,
+      "duration" : 3395
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "f3498405c01e4f2d",
+      "name" : "log",
+      "source" : "f3498405c01e4f2d.txt",
+      "type" : "text/plain",
+      "size" : 585
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ {
+    "name" : "driver::0",
+    "time" : {
+      "start" : 1693726821778,
+      "stop" : 1693726823945,
+      "duration" : 2167
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "testcase.shop"
+  }, {
+    "name" : "suite",
+    "value" : "test_login"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-P80NNEF"
+  }, {
+    "name" : "thread",
+    "value" : "26220-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcase.shop.test_login"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "user",
+    "value" : "{'casename': '执行登录-无效用户', 'caselevel': 'p3', 'username': 'syz001', 'password': '', 'expected': '用户登录失败', 'asserttype': ['fe', 'xpath'], 'elepath': '//*[@id=\"msg-error-text\"]', 'elecontext': '请输入密码'}"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2049dfd01ccd3c8a.json",
+  "parameterValues" : [ "{'casename': '执行登录-无效用户', 'caselevel': 'p3', 'username': 'syz001', 'password': '', 'expected': '用户登录失败', 'asserttype': ['fe', 'xpath'], 'elepath': '//*[@id=\"msg-error-text\"]', 'elecontext': '请输入密码'}" ]
+}

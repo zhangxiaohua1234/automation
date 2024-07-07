@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/day09-12/ecshop_api_test" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/day04" />
+      <excludeFolder url="file://$MODULE_DIR$/day04/autotest" />
+      <excludeFolder url="file://$MODULE_DIR$/day07/appautotest" />
+    </content>
+    <content url="file://$MODULE_DIR$/../python3.9/DLLs">
+      <sourceFolder url="file://$MODULE_DIR$/../python3.9/DLLs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../python3.9/Lib">
+      <sourceFolder url="file://$MODULE_DIR$/../python3.9/Lib" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../python3.9/Lib/site-packages" isTestSource="false" />
+    </content>
+    <orderEntry type="jdk" jdkName="Python 3.9" jdkType="Python SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="python_jichu" />
+    <orderEntry type="module" module-name="Python_jichu_lianxi" />
+    <orderEntry type="module" module-name="autoclass29期练习" />
+    <orderEntry type="module" module-name="au" />
+    <orderEntry type="module" module-name="autoclass_29练习" />
+    <orderEntry type="module" module-name="pythonProject1" />
+  </component>
+</module>

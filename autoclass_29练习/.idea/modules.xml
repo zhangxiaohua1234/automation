@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Python_jichu_lianxi/.idea/Python_jichu_lianxi.iml" filepath="$PROJECT_DIR$/../Python_jichu_lianxi/.idea/Python_jichu_lianxi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Pythontest23/.idea/Pythontest23.iml" filepath="$PROJECT_DIR$/../Pythontest23/.idea/Pythontest23.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../autoclass29期/.idea/autoclass29期.iml" filepath="$PROJECT_DIR$/../autoclass29期/.idea/autoclass29期.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/autoclass_29练习.iml" filepath="$PROJECT_DIR$/.idea/autoclass_29练习.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../python3.9/.idea/python3.9.iml" filepath="$PROJECT_DIR$/../python3.9/.idea/python3.9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pythonProject/.idea/pythonProject.iml" filepath="$PROJECT_DIR$/../pythonProject/.idea/pythonProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pythonProject10/.idea/pythonProject10.iml" filepath="$PROJECT_DIR$/../pythonProject10/.idea/pythonProject10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pythonProject123/.idea/pythonProject123.iml" filepath="$PROJECT_DIR$/../pythonProject123/.idea/pythonProject123.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pythonProject2/.idea/pythonProject2.iml" filepath="$PROJECT_DIR$/../pythonProject2/.idea/pythonProject2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../python_files/.idea/python_files.iml" filepath="$PROJECT_DIR$/../python_files/.idea/python_files.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../python_jichu/.idea/python_jichu.iml" filepath="$PROJECT_DIR$/../python_jichu/.idea/python_jichu.iml" />
+    </modules>
+  </component>
+</project>

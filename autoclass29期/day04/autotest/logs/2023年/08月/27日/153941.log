@@ -1,0 +1,4 @@
+2023-08-27 15:39:42 | INFO | test_02.py[15L]::test_02
+2023-08-27 15:39:44 | WARNING | selenium_manager.py[133L]::run
+2023-08-27 15:39:50 | WARNING | selenium_manager.py[133L]::run
+2023-08-27 15:39:58 | WARNING | selenium_manager.py[133L]::run

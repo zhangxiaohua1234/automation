@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Python_jichu_lianxi/.idea/Python_jichu_lianxi.iml" filepath="$PROJECT_DIR$/../Python_jichu_lianxi/.idea/Python_jichu_lianxi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../au/.idea/au.iml" filepath="$PROJECT_DIR$/../au/.idea/au.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/autoclass29期.iml" filepath="$PROJECT_DIR$/.idea/autoclass29期.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../sutoclass/.idea/autoclass29期练习.iml" filepath="$PROJECT_DIR$/../sutoclass/.idea/autoclass29期练习.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../autoclass_29练习/.idea/autoclass_29练习.iml" filepath="$PROJECT_DIR$/../autoclass_29练习/.idea/autoclass_29练习.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../python_jichu/.idea/python_jichu.iml" filepath="$PROJECT_DIR$/../python_jichu/.idea/python_jichu.iml" />
+    </modules>
+  </component>
+</project>

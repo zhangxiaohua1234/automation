@@ -1,0 +1,1 @@
+INFO     root:test_02.py:15 执行test

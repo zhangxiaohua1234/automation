@@ -1,0 +1,73 @@
+{
+  "uid" : "1f5713e436b8654b",
+  "name" : "test_b",
+  "fullName" : "testcase.demo.test_01#test_b",
+  "historyId" : "ca4effc6b48d4a87b0e69ea724de8e31",
+  "time" : {
+    "start" : 1693726465822,
+    "stop" : 1693726465822,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ {
+    "name" : "_session_faker",
+    "time" : {
+      "start" : 1693726465499,
+      "stop" : 1693726465814,
+      "duration" : 315
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "tag",
+    "value" : "p3"
+  }, {
+    "name" : "parentSuite",
+    "value" : "testcase.demo"
+  }, {
+    "name" : "suite",
+    "value" : "test_01"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-P80NNEF"
+  }, {
+    "name" : "thread",
+    "value" : "23152-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcase.demo.test_01"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ "p3" ]
+  },
+  "source" : "1f5713e436b8654b.json",
+  "parameterValues" : [ ]
+}

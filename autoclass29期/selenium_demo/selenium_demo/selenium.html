@@ -1,0 +1,418 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <title>Selenium Test</title>
+        <link rel="stylesheet" href="https://cdn.staticfile.org/twitter-bootstrap/4.3.1/css/bootstrap.min.css">
+        <script src="https://cdn.staticfile.org/jquery/3.2.1/jquery.min.js"></script>
+        <script src="https://cdn.staticfile.org/popper.js/1.15.0/umd/popper.min.js"></script>
+        <script src="https://cdn.staticfile.org/twitter-bootstrap/4.3.1/js/bootstrap.min.js"></script>
+        <link href="https://cdn.bootcdn.net/ajax/libs/zTree.v3/3.5.42/css/zTreeStyle/zTreeStyle.min.css" rel="stylesheet">
+        <script src="https://cdn.bootcdn.net/ajax/libs/zTree.v3/3.5.42/js/jquery.ztree.all.min.js"></script>
+        <style>
+            .dropdown {
+                position: relative;
+                display: inline-block;
+            }
+            .dropdown-content {
+                display: none;
+                position: absolute;
+                background-color: #f9f9f9;
+                min-width: 160px;
+                box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+                padding: 5px 10px;
+                z-index: 1;
+            }
+            .dropdown:hover .dropdown-content {
+                display: block;
+            }
+        </style>
+    </head>
+    <body>
+        <div class="jumbotron text-center">
+          <h1>龙腾 Selenium 测试页 </h1>
+          <p>龙腾于渊</p>
+        </div>
+        <div class="container">
+
+            <div class="card mt-3">
+              <div class="card-body">
+                <h4 class="card-title">链接</h4>
+                  <a href="https://www.baidu.com/"><img src="baidu.jpeg"></a>
+                  <div><a href="https://www.baidu.com">百度</a></div>
+                  <div><a href="https://www.baidu.com">全球最大的中文搜索引擎、致力于让网民更便捷地获取信息，找到所求。百度超过千亿的中文网页数据库，可以瞬间找到相关的搜索结果。</a></div>
+                  <a href="http://www.baidu.com" target="_blank">在新窗口打开百度</a>
+                  <div><a href="https://www.baidu.com" class="btn btn-secondary">&nbsp;百度一下&nbsp;</a></div>
+              </div>
+            </div>
+
+            <div class="card mt-3">
+            <div class="card-body">
+            <h4 class="card-title">表单</h4>
+              <form>
+                <h5 class="mt-3">输入框</h5>
+                <div class="form-inline">
+                    <label for="account">账号</label>
+                    <input class="ml-1" name="account" id="account" type="text" placeholder="请输入账号"/>
+                    <label class="ml-3" for="password">密码</label>
+                    <input class="ml-1" name="password" class="password" id="password" type="password" placeholder="请输入密码"/>
+                </div>
+                <h5 class="mt-3">多行文本域</h5>
+                <div class="form-group">
+                  <textarea class="form-control" rows="5" id="comment"></textarea>
+                </div>
+
+                <h5 class="mt-3">单选框</h5>
+                <div class="form-inline">
+                    <label class="ml-3"><input name="gender" class="mr-1" type="radio">男</label>
+                    <label class="ml-3"><input name="gender" class="mr-1" type="radio" checked>女</label>
+                </div>
+
+                <h5 class="mt-3">复选框</h5>
+                <div class="form-inline">
+                    <div class="form-check ml-3">
+                      <label class="form-check-label">
+                        <input type="checkbox" class="form-check-input" name="season" value="spring">春
+                      </label>
+                    </div>
+                    <div class="form-check ml-3">
+                      <label class="form-check-label">
+                        <input type="checkbox" class="form-check-input" name="season" value="summer" checked>夏
+                      </label>
+                    </div>
+                    <div class="form-check ml-3 disabled">
+                      <label class="form-check-label">
+                        <input type="checkbox" class="form-check-input" name="season" value="autumn">秋
+                      </label>
+                    </div>
+                    <div class="form-check ml-3 disabled">
+                      <label class="form-check-label">
+                        <input type="checkbox" class="form-check-input" name="season" value="winter" disabled>冬
+                      </label>
+                    </div>
+                </div>
+                <h5 class="mt-3">下拉框</h5>
+
+                <select class="form-control" id="area">
+                  <option value="tianjin">天津</option>
+                  <option value="beijing">北京</option>
+                  <option value="shanghai">上海</option>
+                  <option value="hebei">河北</option>
+                </select>
+                <h5 class="mt-3">下拉菜单</h5>
+                <div class="dropdown">
+                    <button type="button" class="form-control dropdown-toggle" data-toggle="dropdown">请选择</button>
+                    <div class="dropdown-menu">
+                      <a class="dropdown-item" href="#">连接1</a>
+                      <a class="dropdown-item" href="#">连接2</a>
+                      <a class="dropdown-item" href="#">连接3</a>
+                    </div>
+                </div>
+              <h5 class="mt-3">按钮</h5>
+              <div><button class="btn btn-link">看起来像成链接的按钮</button></div>
+              <div>
+                  <button type="button" class="btn btn-secondary mt-1">按钮</button>
+                  <input type="button" class="btn btn-secondary mt-1" value="input按钮">
+                  <button type="submit" class="btn btn-primary mt-1">提交按钮</button>
+              </div>
+              </form>
+            </div>
+            </div>
+
+            <div class="card mt-3">
+             <div class="card-body">
+                <h4 class="card-title">上传下载</h4>
+                <h5 class="mt-3">上传</h5>
+                <div>上传文件: <input type="file"></div>
+                <form id="upform" enctype='multipart/form-data' style="display:none;">
+                    <div class="form-group">
+                        <label for="upteainput">上传文件</label>
+                        <input id="upteainput" name="upfile" type="file" class="form-control-file">
+                    </div>
+                </form>
+                <button id="uptea" type="button" class="btn btn-primary">上传</button>
+                <h5 class="mt-3">下载</h5>
+                <div><a href="day1.zip">点击下载</a></div>
+             </div>
+            </div>
+
+            <div class="card mt-3">
+            <div class="card-body">
+            <h4 class="card-title">表格</h4>
+            <table class="table table-bordered table-striped">
+            <thead>
+                <tr><th>姓名</th><th>性别</th><th>年龄</th><th>操作</th></tr>
+            </thead>
+            <tbody>
+                <tr><td>张三</td><td>男</td><td>16</td><td><a href="#" onclick="alert('张三');">查看</a></td></tr>
+                <tr><td>李四</td><td>男</td><td>18</td><td><a href="#" onclick="alert('李四');">查看</a></td></tr>
+                <tr><td>王五</td><td>男</td><td>21</td><td><img src="loading.gif" style="width: 32px; height: 32px;"></td></tr>
+                <tr><td>赵六</td><td>男</td><td>15</td><td><a href="#" onclick="alert('赵六');">查看</a></td></tr>
+                <tr><td>宋七</td><td>男</td><td>17</td><td><a href="#" onclick="alert('宋七');">查看</a></td></tr>
+            </tbody>
+            </table>
+            </div>
+            </div>
+
+            <div class="card mt-3">
+                <div class="card-body">
+                <h4 class="card-title">日期输入框处理</h4>
+                <p class="card-text">遇到日期输入框应该如何处理</p>
+                </div>
+                <div>
+                    <input type="date" id="date001" min="1998-1-1" max="2099-12-30" onkeydown="return false">
+                    <input type="datetime-local" id="date002" min="1998-1-1 00:00" max="2099-12-30 00:00" onkeydown="return false">
+                    <input type="week" id="date003" min="1998 00" max="2099 52" >
+                </div>
+            <div>
+
+            <div class="card mt-3">
+              <div class="card-body">
+                <h4 class="card-title">弹出框处理</h4>
+                <p class="card-text">遇到弹出框应该如何处理</p>
+                <h5>div对话框(DOM对话框)</h5>
+                <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#exampleModal">模态框(遮罩框)</button>
+                  <div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                  <div class="modal-dialog" role="document">
+                    <div class="modal-content">
+                      <div class="modal-header">
+                        <h5 class="modal-title" id="exampleModalLabel">Modal title</h5>
+                        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                          <span aria-hidden="true">&times;</span>
+                        </button>
+                      </div>
+                      <div class="modal-body">
+                        ...
+                      </div>
+                      <div class="modal-footer">
+                        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                        <button type="button" class="btn btn-primary">Save changes</button>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <h5></h5>
+                <input id="alert" class="btn btn-danger" value="alert" type="button" onclick="alert('请按确认继续！');"/>
+                <input id="confirm" class="btn btn-danger" value = "confirm" type="button" onclick="confirm('是否确定？');"/>
+                <input id="prompt" class="btn btn-danger" value = "prompt" type="button" onclick="var name = prompt('请输入地址:',''); document.write(name) "/>
+                <h5>弹出新窗口</h5>
+                <input id="new_window" class="btn btn-warning" type="button" value="新窗口" onclick='window.open ("new.html", "newwindow", "height=100, width=400, top=0, left=0, toolbar=no, menubar=no, scrollbars=no, resizable=no,location=no, status=no")'/>
+                <h5>Basic Auth授权框</h5>
+                <a class="btn btn-info" href="http://115.28.108.130:5000/api/user/login2/">Basic Auth授权框</a>
+              </div>
+            </div>
+
+            <h4 class="card-title">框架页面</h4>
+            <iframe name="parent_frame" src="iframe.html" width="100%" height="400px"></iframe>
+
+            <div class="card mt-3">
+                 <div class="card-body">
+                    <h4 class="card-title">动作链</h4>
+                    <h5 class="mt-3">移动鼠标</h5>
+                    <div class="dropdown">
+                      <input type="button" class="btn btn-dark" value="下拉菜单">
+                      <div class="dropdown-content">
+                            <a class="dropdown-item" href="http://www.baidu.com" style="text-decoration: none">baidu</a>
+                            <a class="dropdown-item" href="http://www.163.com" style="text-decoration: none">163</a>
+                      </div>
+                    </div>
+                    <h5 class="mt-3">双击</h5>
+                    <input class="mt-3" type="text" id="field1" value="Hello World!">
+                    <input class="mt-3" type="text" id="field2">
+
+                    <button class="button" ondblclick="copyText()">双击复制文本</button>
+                    <h5 class="mt-3">自定义滑块控件</h5>
+                     <label for="defaultRange">默认滑块控件</label>
+                     <input type="range" id="defaultRange" name="points2">
+                 </div>
+             </div>
+
+            <div class="card mt-3">
+                 <div class="card-body">
+                    <h4 class="card-title">表单限制属性</h4>
+                    <input id='ro' type="text" readonly placeholder="哈哈你输入不了">
+                    <input id='ds' type="button" value="不可点击" onclick="alert('点击成功')" disabled="disabled">
+                    <input id='hd1' type="button" hidden value="hide1">
+                    <input id='hd3' type="button"  value="hide3" style="visibility: hidden">
+                    <input id='hd4' type="button" hidden style="display: none" value="hide4">
+                    <input id='hd5' type="button" hidden style="display: none" value="hide4">
+                    <h4 class="card-title mt-3">其他链接</h4>
+                    <a href="http://sahitest.com/demo/index.htm">Sahi Tests</a>
+                    <a href="http://www.vemmis.com/bjq/index.html">富文本编辑器</a>
+                    <a href="http://115.28.108.130/date.html">日期操作</a>
+                 </div>
+             </div>
+
+            <div class="card mt-3">
+                 <div class="card-body">
+                    <h4 class="card-title">其他</h4>
+                     <h5>可关闭提示消息</h5>
+                     <div class="alert alert-success alert-dismissible">
+                <button type="button" class="close" data-dismiss="alert">&times;</button>
+                <strong>成功!</strong> 指定操作成功提示信息。
+              </div>
+
+                    <h5>tootip提示消息</h5><br>
+                    <a href="#" data-toggle="tooltip" title="我是提示内容!">鼠标移动到我这</a>
+
+                    <h5 class="mt-3">pop提示消息</h5>
+                    <a href="#" data-toggle="popover" title="弹出框标题" data-content="弹出框内容">点我</a>
+
+                    <h5 class="mt-3">折叠面板</h5>
+                    <button class="btn btn-primary" type="button" data-toggle="collapse" data-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample">
+                        Button with data-target
+                      </button>
+                    <div class="collapse" id="collapseExample">
+                      <div class="card card-body">
+                        Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident.
+                      </div>
+                    </div>
+                    <h5 class="mt-3">手风琴</h5>
+                    <div id="accordion">
+                        <div class="card">
+                          <div class="card-header">
+                            <a class="card-link" data-toggle="collapse" href="#collapseOne">
+                              选项一
+                            </a>
+                          </div>
+                          <div id="collapseOne" class="collapse show" data-parent="#accordion">
+                            <div class="card-body">
+                              #1 内容：龙腾育才 -- 学的不仅是技术，更是梦想！！！
+                            </div>
+                          </div>
+                        </div>
+                        <div class="card">
+                          <div class="card-header">
+                            <a class="collapsed card-link" data-toggle="collapse" href="#collapseTwo">
+                            选项二
+                          </a>
+                          </div>
+                          <div id="collapseTwo" class="collapse" data-parent="#accordion">
+                            <div class="card-body">
+                              #2 内容：龙腾育才 -- 学的不仅是技术，更是梦想！！！
+                            </div>
+                          </div>
+                        </div>
+                        <div class="card">
+                          <div class="card-header">
+                            <a class="collapsed card-link" data-toggle="collapse" href="#collapseThree">
+                              选项三
+                            </a>
+                          </div>
+                          <div id="collapseThree" class="collapse" data-parent="#accordion">
+                            <div class="card-body">
+                              #3 内容：龙腾育才 -- 学的不仅是技术，更是梦想！！！
+                            </div>
+                          </div>
+                        </div>
+                    </div>
+                    <h5 class="mt-3">树形菜单</h5>
+                    <div>
+        <div>
+           <ul id="treeDemo" class="ztree"></ul>
+        </div>
+        <script>
+           var settingss = {
+                            data: {
+                              simpleData: {
+                                enable: true,  //true 、 false 分别表示 使用 、 不使用 简单数据模式
+                                idKey: "id",  //节点数据中保存唯一标识的属性名称
+                                pIdKey: "parentId",    //节点数据中保存其父节点唯一标识的属性名称
+                                rootPId: -1  //用于修正根节点父节点数据，即 pIdKey 指定的属性值
+                                          },
+                              key: {
+                                name: "menuName"  //zTree 节点数据保存节点名称的属性名称  默认值："name"
+                                   }
+                                  },
+                            check:{
+                                enable:true,  //true 、 false 分别表示 显示 、不显示 复选框或单选框
+                                nocheckInherit:true  //当父节点设置 nocheck = true 时，设置子节点是否自动继承 nocheck = true
+                                  }
+                            };
+
+            //数据
+            var zNodes = [
+               //注意，数据中的 menuName 必须与 settingss 中key 中定义的name一致，否则找不到
+               {menuName:"父节点1", open:true, children:[
+                   {menuName:"子节点1"}, {menuName:"子节点2"}]},
+               {menuName:"父节点2", open:true, children:[
+                   {menuName:"子节点3"}, {menuName:"子节点4"}]}
+               ];
+
+            zTreeObj = $.fn.zTree.init($("#treeDemo"), settingss, zNodes); //初始化树
+            zTreeObj.expandAll(true);    //true 节点全部展开、false节点收缩
+       </script>
+    </div>
+                 </div>
+            </div>
+
+            <div class="card mt-3">
+                 <div class="card-body">
+                    <h4 class="card-title">验证码</h4>
+                    <div>
+                        <input type="text" name="captcha" placeholder="图形验证码" autocomplete="off" value="">
+                        <div class="captcha-img"><img id="verify_code" class="verify_code" src="1.png" onclick="this.src='/api/imgCode?'+ Math.random()"></div>
+                    </div>
+                 </div>
+            </div>
+        </div>
+
+    </div>
+    <script>
+        $(document).ready(function(){
+            $('[data-toggle="popover"]').popover();
+            $('[data-toggle="tooltip"]').tooltip();
+        });
+        function copyText()
+            {
+            document.getElementById("field2").value=document.getElementById("field1").value;
+            }
+
+        $("#uptea").click(function () {
+            $("#upteainput").click();
+        });
+        $("#upteainput").change(function () {//如果上传文件的input内容发生了变化
+                    $val = $("#upteainput").val();
+                    if ($val != '') {//要上传的文件名不为空
+                        $data = new FormData($("#upform")[0]);//创建一个formdata对象
+                        $host = window.location.host;
+                        $.ajax({
+                            url: "http://" + $host + "/home/front/up-tea",
+                            type: "POST",
+                            data: $data,
+                            processData: false,
+                            contentType: false,
+                            dataType: "json",
+                            error: function () {
+                                alert('Error loading XML document');
+                            },
+                            success: function (data, status) {//如果调用php成功
+                                if (data.errno != 0) {
+                                    if (data.errmsg != '') {
+                                        alert(data.errmsg);
+                                    } else {
+                                        alert("系统错误");
+                                    }
+                                }
+                                console.log(data);
+                                alert("导入成功");
+                                window.location.reload();
+                            }
+                        });
+                    }
+                });
+
+        function change() {
+            document.querySelector("body > div.container > div:nth-child(4) > div > table > tbody > tr:nth-child(3) > td:nth-child(4)").innerHTML="<a href='#' onclick='alert(\"王五\");'>查看</a>";
+        }
+
+        window.onload=function (){
+            setTimeout(change, Math.ceil(Math.random()*10000));
+
+        }
+        function toAlert() {
+            alert("hello continue...");
+        }
+    </script>
+    </body>
+</html>

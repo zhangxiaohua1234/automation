@@ -1,0 +1,35 @@
+{
+  "testcase":[{
+    "casename": "执行登录-无效用户",
+    "caselevel": "p3",
+    "username": "syz001",
+    "password": "123456",
+    "expected": "用户登录失败",
+    "asserttype": [
+      "fe", "xpath"
+    ],
+    "elepath": "//*[@id=\"msg-error-text\"]",
+    "elecontext": "用户名或密码错误"
+  },
+  {
+    "casename": "执行登录-无效用户",
+    "caselevel": "p0",
+    "username": "zdb",
+    "password": "123456",
+    "expected": "用户登录成功",
+    "asserttype": "new_url",
+    "elepath": "",
+    "elecontext": "http://115.28.108.130/newecshop/user.php?act=account_detail"
+  },
+  {
+    "casename": "执行登录-无效用户",
+    "caselevel": "p3",
+    "username": "syz001",
+    "password": "",
+    "expected": "用户登录失败",
+    "asserttype": ["fe","xpath"],
+    "elepath": "//*[@id=\"msg-error-text\"]",
+    "elecontext": "请输入密码"
+  }]
+
+}

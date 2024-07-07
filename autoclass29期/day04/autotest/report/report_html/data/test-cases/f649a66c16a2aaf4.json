@@ -1,0 +1,155 @@
+{
+  "uid" : "f649a66c16a2aaf4",
+  "name" : "test_02",
+  "fullName" : "testcase.demo.test_02#test_02",
+  "historyId" : "d425482c9654cdb4391ffb7c421d3e82",
+  "time" : {
+    "start" : 1693734349316,
+    "stop" : 1693734349316,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 8,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ {
+    "name" : "_session_faker",
+    "time" : {
+      "start" : 1693734349022,
+      "stop" : 1693734349307,
+      "duration" : 285
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "7127923d09c4c753",
+      "name" : "log",
+      "source" : "7127923d09c4c753.txt",
+      "type" : "text/plain",
+      "size" : 38
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "tag",
+    "value" : "smoke"
+  }, {
+    "name" : "parentSuite",
+    "value" : "testcase.demo"
+  }, {
+    "name" : "suite",
+    "value" : "test_02"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-P80NNEF"
+  }, {
+    "name" : "thread",
+    "value" : "20136-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcase.demo.test_02"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "5131aaf0aea7ffe3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1693734053200,
+        "stop" : 1693734053200,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "bf2804f9c1f8ce22",
+      "status" : "passed",
+      "time" : {
+        "start" : 1693733612769,
+        "stop" : 1693733612770,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "22b3777c4bda08db",
+      "status" : "passed",
+      "time" : {
+        "start" : 1693727070983,
+        "stop" : 1693727070984,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "d6b8d2f4fc6fd850",
+      "status" : "passed",
+      "time" : {
+        "start" : 1693726921732,
+        "stop" : 1693726921733,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "8b7a40c986446955",
+      "status" : "passed",
+      "time" : {
+        "start" : 1693726796658,
+        "stop" : 1693726796658,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "40ee9194230cde28",
+      "status" : "passed",
+      "time" : {
+        "start" : 1693726563232,
+        "stop" : 1693726563232,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "1b31471f132ae645",
+      "status" : "passed",
+      "time" : {
+        "start" : 1693726465826,
+        "stop" : 1693726465827,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "6c3d8d5e05bf559a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1693726107723,
+        "stop" : 1693726107724,
+        "duration" : 1
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ "smoke" ]
+  },
+  "source" : "f649a66c16a2aaf4.json",
+  "parameterValues" : [ ]
+}

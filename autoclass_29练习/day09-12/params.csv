@@ -1,0 +1,6 @@
+name,password,status
+abc,123456,FAIL
+张五,123#456,FAIL
+张#abc123,123456,FAIL
+666,123456,FAIL
+a b,123456,FAIL

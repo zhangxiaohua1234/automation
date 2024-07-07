@@ -1,0 +1,2034 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "DESKTOP-P80NNEF",
+    "children" : [ {
+      "name" : "27820-MainThread",
+      "children" : [ {
+        "name" : "test_login[user1]",
+        "uid" : "2d69769d0e8b255e",
+        "parentUid" : "dcf1f6a92faf07cf201e2c538939d537",
+        "status" : "passed",
+        "time" : {
+          "start" : 1693734068479,
+          "stop" : 1693734068773,
+          "duration" : 294
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "{'casename': '执行登录-无效用户', 'caselevel': 'p0', 'username': 'syz', 'password': '123456', 'expected': '用户登录成功', 'asserttype': 'new_url', 'elepath': '', 'elecontext': 'http://115.28.108.130/newecshop/user.php?act=account_detail'}" ]
+      }, {
+        "name" : "test_g",
+        "uid" : "f7b111947920efbf",
+        "parentUid" : "dcf1f6a92faf07cf201e2c538939d537",
+        "status" : "passed",
+        "time" : {
+          "start" : 1693734053220,
+          "stop" : 1693734053220,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_z",
+        "uid" : "3cf3a0edc5f161af",
+        "parentUid" : "dcf1f6a92faf07cf201e2c538939d537",
+        "status" : "passed",
+        "time" : {
+          "start" : 1693734053223,
+          "stop" : 1693734053224,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_login[user2]",
+        "uid" : "4417166e10bb6896",
+        "parentUid" : "dcf1f6a92faf07cf201e2c538939d537",
+        "status" : "passed",
+        "time" : {
+          "start" : 1693734078323,
+          "stop" : 1693734078789,
+          "duration" : 466
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "{'casename': '执行登录-无效用户', 'caselevel': 'p3', 'username': 'syz001', 'password': '', 'expected': '用户登录失败', 'asserttype': ['fe', 'xpath'], 'elepath': '//*[@id=\"msg-error-text\"]', 'elecontext': '请输入密码'}" ]
+      }, {
+        "name" : "test_02",
+        "uid" : "5131aaf0aea7ffe3",
+        "parentUid" : "dcf1f6a92faf07cf201e2c538939d537",
+        "status" : "passed",
+        "time" : {
+          "start" : 1693734053200,
+          "stop" : 1693734053200,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_login[user0]",
+        "uid" : "569ac05bdbd03417",
+        "parentUid" : "dcf1f6a92faf07cf201e2c538939d537",
+        "status" : "passed",
+        "time" : {
+          "start" : 1693734057432,
+          "stop" : 1693734058927,
+          "duration" : 1495
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "{'casename': '执行登录-无效用户', 'caselevel': 'p3', 'username': 'syz001', 'password': '123456', 'expected': '用户登录失败', 'asserttype': ['fe', 'xpath'], 'elepath': '//*[@id=\"msg-error-text\"]', 'elecontext': '用户名或密码错误'}" ]
+      }, {
+        "name" : "test_a",
+        "uid" : "fe729494a7872dc6",
+        "parentUid" : "dcf1f6a92faf07cf201e2c538939d537",
+        "status" : "passed",
+        "time" : {
+          "start" : 1693734053190,
+          "stop" : 1693734053190,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_x",
+        "uid" : "64337554d96fb444",
+        "parentUid" : "dcf1f6a92faf07cf201e2c538939d537",
+        "status" : "passed",
+        "time" : {
+          "start" : 1693734053227,
+          "stop" : 1693734053227,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_f",
+        "uid" : "cf83f9edba0a6959",
+        "parentUid" : "dcf1f6a92faf07cf201e2c538939d537",
+        "status" : "passed",
+        "time" : {
+          "start" : 1693734053216,
+          "stop" : 1693734053216,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_d",
+        "uid" : "c38403917660a51c",
+        "parentUid" : "dcf1f6a92faf07cf201e2c538939d537",
+        "status" : "passed",
+        "time" : {
+          "start" : 1693734053210,
+          "stop" : 1693734053210,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_c",
+        "uid" : "67b6388ed54b06c3",
+        "parentUid" : "dcf1f6a92faf07cf201e2c538939d537",
+        "status" : "passed",
+        "time" : {
+          "start" : 1693734053206,
+          "stop" : 1693734053206,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_b",
+        "uid" : "9193c25f0ea4d43b",
+        "parentUid" : "dcf1f6a92faf07cf201e2c538939d537",
+        "status" : "passed",
+        "time" : {
+          "start" : 1693734053196,
+          "stop" : 1693734053196,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_01",
+        "uid" : "61a720518f177968",
+        "parentUid" : "dcf1f6a92faf07cf201e2c538939d537",
+        "status" : "passed",
+        "time" : {
+          "start" : 1693734053186,
+          "stop" : 1693734053186,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "dcf1f6a92faf07cf201e2c538939d537"
+    }, {
+      "name" : "1920-MainThread",
+      "children" : [ {
+        "name" : "test_02",
+        "uid" : "22b3777c4bda08db",
+        "parentUid" : "bd2495d60acdf351a1defe8ad93f978a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1693727070983,
+          "stop" : 1693727070984,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_a",
+        "uid" : "b49585845890c356",
+        "parentUid" : "bd2495d60acdf351a1defe8ad93f978a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1693727070978,
+          "stop" : 1693727070978,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_login[user1]",
+        "uid" : "d5dc5004d01d4ca7",
+        "parentUid" : "bd2495d60acdf351a1defe8ad93f978a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1693727086412,
+          "stop" : 1693727086647,
+          "duration" : 235
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "{'casename': '执行登录-无效用户', 'caselevel': 'p0', 'username': 'syz', 'password': '123456', 'expected': '用户登录成功', 'asserttype': 'new_url', 'elepath': '', 'elecontext': 'http://115.28.108.130/newecshop/user.php?act=account_detail'}" ]
+      }, {
+        "name" : "test_login[user2]",
+        "uid" : "6042f382663fadfe",
+        "parentUid" : "bd2495d60acdf351a1defe8ad93f978a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1693727096059,
+          "stop" : 1693727096526,
+          "duration" : 467
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "{'casename': '执行登录-无效用户', 'caselevel': 'p3', 'username': 'syz001', 'password': '', 'expected': '用户登录失败', 'asserttype': ['fe', 'xpath'], 'elepath': '//*[@id=\"msg-error-text\"]', 'elecontext': '请输入密码'}" ]
+      }, {
+        "name" : "test_g",
+        "uid" : "b42f40b86453d267",
+        "parentUid" : "bd2495d60acdf351a1defe8ad93f978a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1693727070995,
+          "stop" : 1693727070995,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_z",
+        "uid" : "94764a8797ea3e97",
+        "parentUid" : "bd2495d60acdf351a1defe8ad93f978a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1693727070998,
+          "stop" : 1693727070998,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_login[user0]",
+        "uid" : "fbff757914b076f6",
+        "parentUid" : "bd2495d60acdf351a1defe8ad93f978a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1693727074130,
+          "stop" : 1693727075763,
+          "duration" : 1633
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "{'casename': '执行登录-无效用户', 'caselevel': 'p3', 'username': 'syz001', 'password': '123456', 'expected': '用户登录失败', 'asserttype': ['fe', 'xpath'], 'elepath': '//*[@id=\"msg-error-text\"]', 'elecontext': '用户名或密码错误'}" ]
+      }, {
+        "name" : "test_f",
+        "uid" : "60ad11845db7e81a",
+        "parentUid" : "bd2495d60acdf351a1defe8ad93f978a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1693727070993,
+          "stop" : 1693727070993,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_d",
+        "uid" : "4a2012581ec75a06",
+        "parentUid" : "bd2495d60acdf351a1defe8ad93f978a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1693727070990,
+          "stop" : 1693727070990,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_x",
+        "uid" : "e921fc9600547d42",
+        "parentUid" : "bd2495d60acdf351a1defe8ad93f978a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1693727071001,
+          "stop" : 1693727071001,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_c",
+        "uid" : "686031aca069ff3b",
+        "parentUid" : "bd2495d60acdf351a1defe8ad93f978a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1693727070988,
+          "stop" : 1693727070988,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_01",
+        "uid" : "206cdc57c52f133d",
+        "parentUid" : "bd2495d60acdf351a1defe8ad93f978a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1693727070975,
+          "stop" : 1693727070975,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_b",
+        "uid" : "69532ff9c62c783",
+        "parentUid" : "bd2495d60acdf351a1defe8ad93f978a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1693727070980,
+          "stop" : 1693727070981,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "bd2495d60acdf351a1defe8ad93f978a"
+    }, {
+      "name" : "28144-MainThread",
+      "children" : [ {
+        "name" : "test_a",
+        "uid" : "574d84483ee60d65",
+        "parentUid" : "670c727146092c232299f909f1fe80c1",
+        "status" : "passed",
+        "time" : {
+          "start" : 1693726107718,
+          "stop" : 1693726107718,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_login[user2]",
+        "uid" : "df9560fa5e8759e2",
+        "parentUid" : "670c727146092c232299f909f1fe80c1",
+        "status" : "passed",
+        "time" : {
+          "start" : 1693726138199,
+          "stop" : 1693726138685,
+          "duration" : 486
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "{'casename': '执行登录-无效用户', 'caselevel': 'p3', 'username': 'syz001', 'password': '', 'expected': '用户登录失败', 'asserttype': ['fe', 'xpath'], 'elepath': '//*[@id=\"msg-error-text\"]', 'elecontext': '请输入密码'}" ]
+      }, {
+        "name" : "test_02",
+        "uid" : "6c3d8d5e05bf559a",
+        "parentUid" : "670c727146092c232299f909f1fe80c1",
+        "status" : "passed",
+        "time" : {
+          "start" : 1693726107723,
+          "stop" : 1693726107724,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_login[user0]",
+        "uid" : "a9259101cb6efeaa",
+        "parentUid" : "670c727146092c232299f909f1fe80c1",
+        "status" : "passed",
+        "time" : {
+          "start" : 1693726117398,
+          "stop" : 1693726118973,
+          "duration" : 1575
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "{'casename': '执行登录-无效用户', 'caselevel': 'p3', 'username': 'syz001', 'password': '123456', 'expected': '用户登录失败', 'asserttype': ['fe', 'xpath'], 'elepath': '//*[@id=\"msg-error-text\"]', 'elecontext': '用户名或密码错误'}" ]
+      }, {
+        "name" : "test_01",
+        "uid" : "377363fcb30656e8",
+        "parentUid" : "670c727146092c232299f909f1fe80c1",
+        "status" : "passed",
+        "time" : {
+          "start" : 1693726107715,
+          "stop" : 1693726107715,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_c",
+        "uid" : "5cf348ab40f55192",
+        "parentUid" : "670c727146092c232299f909f1fe80c1",
+        "status" : "passed",
+        "time" : {
+          "start" : 1693726107729,
+          "stop" : 1693726107729,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_b",
+        "uid" : "d1f84b5a59b4cec5",
+        "parentUid" : "670c727146092c232299f909f1fe80c1",
+        "status" : "passed",
+        "time" : {
+          "start" : 1693726107721,
+          "stop" : 1693726107721,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_login[user1]",
+        "uid" : "4489367ec2b38970",
+        "parentUid" : "670c727146092c232299f909f1fe80c1",
+        "status" : "passed",
+        "time" : {
+          "start" : 1693726128657,
+          "stop" : 1693726128892,
+          "duration" : 235
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "{'casename': '执行登录-无效用户', 'caselevel': 'p0', 'username': 'syz', 'password': '123456', 'expected': '用户登录成功', 'asserttype': 'new_url', 'elepath': '', 'elecontext': 'http://115.28.108.130/newecshop/user.php?act=account_detail'}" ]
+      }, {
+        "name" : "test_g",
+        "uid" : "bd081f628cfa708b",
+        "parentUid" : "670c727146092c232299f909f1fe80c1",
+        "status" : "passed",
+        "time" : {
+          "start" : 1693726107738,
+          "stop" : 1693726107738,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_x",
+        "uid" : "a268b7ecaf275fce",
+        "parentUid" : "670c727146092c232299f909f1fe80c1",
+        "status" : "passed",
+        "time" : {
+          "start" : 1693726107744,
+          "stop" : 1693726107744,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_z",
+        "uid" : "b2bf5b6613ac2ea3",
+        "parentUid" : "670c727146092c232299f909f1fe80c1",
+        "status" : "passed",
+        "time" : {
+          "start" : 1693726107741,
+          "stop" : 1693726107742,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_f",
+        "uid" : "d84fb87a36bcb8ee",
+        "parentUid" : "670c727146092c232299f909f1fe80c1",
+        "status" : "passed",
+        "time" : {
+          "start" : 1693726107735,
+          "stop" : 1693726107736,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_d",
+        "uid" : "cfd0236f41d55426",
+        "parentUid" : "670c727146092c232299f909f1fe80c1",
+        "status" : "passed",
+        "time" : {
+          "start" : 1693726107731,
+          "stop" : 1693726107732,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "670c727146092c232299f909f1fe80c1"
+    }, {
+      "name" : "20136-MainThread",
+      "children" : [ {
+        "name" : "test_login[user0]",
+        "uid" : "666b15e1c53d5d3",
+        "parentUid" : "5505d544ebbc507260e1fe6a7513cd88",
+        "status" : "passed",
+        "time" : {
+          "start" : 1693734353139,
+          "stop" : 1693734354661,
+          "duration" : 1522
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 8,
+        "retriesStatusChange" : false,
+        "parameters" : [ "{'casename': '执行登录-无效用户', 'caselevel': 'p3', 'username': 'syz001', 'password': '123456', 'expected': '用户登录失败', 'asserttype': ['fe', 'xpath'], 'elepath': '//*[@id=\"msg-error-text\"]', 'elecontext': '用户名或密码错误'}" ]
+      }, {
+        "name" : "test_d",
+        "uid" : "b53739e43b309962",
+        "parentUid" : "5505d544ebbc507260e1fe6a7513cd88",
+        "status" : "passed",
+        "time" : {
+          "start" : 1693734349322,
+          "stop" : 1693734349322,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 8,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_02",
+        "uid" : "f649a66c16a2aaf4",
+        "parentUid" : "5505d544ebbc507260e1fe6a7513cd88",
+        "status" : "passed",
+        "time" : {
+          "start" : 1693734349316,
+          "stop" : 1693734349316,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 8,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_z",
+        "uid" : "6c040d190ab3377c",
+        "parentUid" : "5505d544ebbc507260e1fe6a7513cd88",
+        "status" : "passed",
+        "time" : {
+          "start" : 1693734349329,
+          "stop" : 1693734349329,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 8,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_b",
+        "uid" : "25f9a8c585f7edaa",
+        "parentUid" : "5505d544ebbc507260e1fe6a7513cd88",
+        "status" : "passed",
+        "time" : {
+          "start" : 1693734349313,
+          "stop" : 1693734349313,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 8,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_g",
+        "uid" : "d311ea9b08fe37e8",
+        "parentUid" : "5505d544ebbc507260e1fe6a7513cd88",
+        "status" : "passed",
+        "time" : {
+          "start" : 1693734349327,
+          "stop" : 1693734349327,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 8,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_a",
+        "uid" : "d4d5fed9e0b9265d",
+        "parentUid" : "5505d544ebbc507260e1fe6a7513cd88",
+        "status" : "passed",
+        "time" : {
+          "start" : 1693734349311,
+          "stop" : 1693734349311,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 8,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_login[user1]",
+        "uid" : "f03b1343560da7e6",
+        "parentUid" : "5505d544ebbc507260e1fe6a7513cd88",
+        "status" : "passed",
+        "time" : {
+          "start" : 1693734364634,
+          "stop" : 1693734364897,
+          "duration" : 263
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 8,
+        "retriesStatusChange" : false,
+        "parameters" : [ "{'casename': '执行登录-无效用户', 'caselevel': 'p0', 'username': 'syz', 'password': '123456', 'expected': '用户登录成功', 'asserttype': 'new_url', 'elepath': '', 'elecontext': 'http://115.28.108.130/newecshop/user.php?act=account_detail'}" ]
+      }, {
+        "name" : "test_01",
+        "uid" : "97e44d2b98f729a7",
+        "parentUid" : "5505d544ebbc507260e1fe6a7513cd88",
+        "status" : "passed",
+        "time" : {
+          "start" : 1693734349307,
+          "stop" : 1693734349307,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 8,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_login[user2]",
+        "uid" : "ffe558dddd792ca1",
+        "parentUid" : "5505d544ebbc507260e1fe6a7513cd88",
+        "status" : "passed",
+        "time" : {
+          "start" : 1693734374169,
+          "stop" : 1693734374664,
+          "duration" : 495
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 8,
+        "retriesStatusChange" : false,
+        "parameters" : [ "{'casename': '执行登录-无效用户', 'caselevel': 'p3', 'username': 'syz001', 'password': '', 'expected': '用户登录失败', 'asserttype': ['fe', 'xpath'], 'elepath': '//*[@id=\"msg-error-text\"]', 'elecontext': '请输入密码'}" ]
+      }, {
+        "name" : "test_c",
+        "uid" : "f3b72980cc8981f7",
+        "parentUid" : "5505d544ebbc507260e1fe6a7513cd88",
+        "status" : "passed",
+        "time" : {
+          "start" : 1693734349320,
+          "stop" : 1693734349320,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 8,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_f",
+        "uid" : "85f02c5774840a24",
+        "parentUid" : "5505d544ebbc507260e1fe6a7513cd88",
+        "status" : "passed",
+        "time" : {
+          "start" : 1693734349325,
+          "stop" : 1693734349325,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 8,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_x",
+        "uid" : "44c047da3229bbb4",
+        "parentUid" : "5505d544ebbc507260e1fe6a7513cd88",
+        "status" : "passed",
+        "time" : {
+          "start" : 1693734349332,
+          "stop" : 1693734349332,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 8,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "5505d544ebbc507260e1fe6a7513cd88"
+    }, {
+      "name" : "26220-MainThread",
+      "children" : [ {
+        "name" : "test_c",
+        "uid" : "c0cce761b3f4b9ce",
+        "parentUid" : "af68764a82fa727ca0d5332c68cdc8ec",
+        "status" : "passed",
+        "time" : {
+          "start" : 1693726796662,
+          "stop" : 1693726796662,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_a",
+        "uid" : "8c72f2b66fb70b4a",
+        "parentUid" : "af68764a82fa727ca0d5332c68cdc8ec",
+        "status" : "passed",
+        "time" : {
+          "start" : 1693726796652,
+          "stop" : 1693726796652,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_x",
+        "uid" : "592affab22965b80",
+        "parentUid" : "af68764a82fa727ca0d5332c68cdc8ec",
+        "status" : "passed",
+        "time" : {
+          "start" : 1693726796679,
+          "stop" : 1693726796680,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_b",
+        "uid" : "213fec9881825cd3",
+        "parentUid" : "af68764a82fa727ca0d5332c68cdc8ec",
+        "status" : "passed",
+        "time" : {
+          "start" : 1693726796656,
+          "stop" : 1693726796656,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_g",
+        "uid" : "20f8b3e2aaaaf70d",
+        "parentUid" : "af68764a82fa727ca0d5332c68cdc8ec",
+        "status" : "passed",
+        "time" : {
+          "start" : 1693726796673,
+          "stop" : 1693726796673,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_z",
+        "uid" : "7b5b8e1419b879ab",
+        "parentUid" : "af68764a82fa727ca0d5332c68cdc8ec",
+        "status" : "passed",
+        "time" : {
+          "start" : 1693726796676,
+          "stop" : 1693726796676,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_login[user1]",
+        "uid" : "ddd97a84e85e541",
+        "parentUid" : "af68764a82fa727ca0d5332c68cdc8ec",
+        "status" : "passed",
+        "time" : {
+          "start" : 1693726811507,
+          "stop" : 1693726811739,
+          "duration" : 232
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "{'casename': '执行登录-无效用户', 'caselevel': 'p0', 'username': 'syz', 'password': '123456', 'expected': '用户登录成功', 'asserttype': 'new_url', 'elepath': '', 'elecontext': 'http://115.28.108.130/newecshop/user.php?act=account_detail'}" ]
+      }, {
+        "name" : "test_02",
+        "uid" : "8b7a40c986446955",
+        "parentUid" : "af68764a82fa727ca0d5332c68cdc8ec",
+        "status" : "passed",
+        "time" : {
+          "start" : 1693726796658,
+          "stop" : 1693726796658,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_f",
+        "uid" : "5cc9ac1b024fc801",
+        "parentUid" : "af68764a82fa727ca0d5332c68cdc8ec",
+        "status" : "passed",
+        "time" : {
+          "start" : 1693726796669,
+          "stop" : 1693726796669,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_login[user0]",
+        "uid" : "27dfd7b80a3a22d7",
+        "parentUid" : "af68764a82fa727ca0d5332c68cdc8ec",
+        "status" : "passed",
+        "time" : {
+          "start" : 1693726800217,
+          "stop" : 1693726802068,
+          "duration" : 1851
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "{'casename': '执行登录-无效用户', 'caselevel': 'p3', 'username': 'syz001', 'password': '123456', 'expected': '用户登录失败', 'asserttype': ['fe', 'xpath'], 'elepath': '//*[@id=\"msg-error-text\"]', 'elecontext': '用户名或密码错误'}" ]
+      }, {
+        "name" : "test_01",
+        "uid" : "3c9d6f962007ecd4",
+        "parentUid" : "af68764a82fa727ca0d5332c68cdc8ec",
+        "status" : "passed",
+        "time" : {
+          "start" : 1693726796648,
+          "stop" : 1693726796648,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_d",
+        "uid" : "38094f7b972adaef",
+        "parentUid" : "af68764a82fa727ca0d5332c68cdc8ec",
+        "status" : "passed",
+        "time" : {
+          "start" : 1693726796665,
+          "stop" : 1693726796665,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_login[user2]",
+        "uid" : "2049dfd01ccd3c8a",
+        "parentUid" : "af68764a82fa727ca0d5332c68cdc8ec",
+        "status" : "passed",
+        "time" : {
+          "start" : 1693726821300,
+          "stop" : 1693726821777,
+          "duration" : 477
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "{'casename': '执行登录-无效用户', 'caselevel': 'p3', 'username': 'syz001', 'password': '', 'expected': '用户登录失败', 'asserttype': ['fe', 'xpath'], 'elepath': '//*[@id=\"msg-error-text\"]', 'elecontext': '请输入密码'}" ]
+      } ],
+      "uid" : "af68764a82fa727ca0d5332c68cdc8ec"
+    }, {
+      "name" : "27156-MainThread",
+      "children" : [ {
+        "name" : "test_01",
+        "uid" : "ed690830ef0e6c0c",
+        "parentUid" : "55b85de734ed376830e344225b678c74",
+        "status" : "passed",
+        "time" : {
+          "start" : 1693726921726,
+          "stop" : 1693726921726,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_a",
+        "uid" : "abb53da1493cf6d4",
+        "parentUid" : "55b85de734ed376830e344225b678c74",
+        "status" : "passed",
+        "time" : {
+          "start" : 1693726921727,
+          "stop" : 1693726921727,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_login[user0]",
+        "uid" : "99bafc36ffc7f1b7",
+        "parentUid" : "55b85de734ed376830e344225b678c74",
+        "status" : "passed",
+        "time" : {
+          "start" : 1693726925269,
+          "stop" : 1693726926738,
+          "duration" : 1469
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "{'casename': '执行登录-无效用户', 'caselevel': 'p3', 'username': 'syz001', 'password': '123456', 'expected': '用户登录失败', 'asserttype': ['fe', 'xpath'], 'elepath': '//*[@id=\"msg-error-text\"]', 'elecontext': '用户名或密码错误'}" ]
+      }, {
+        "name" : "test_02",
+        "uid" : "d6b8d2f4fc6fd850",
+        "parentUid" : "55b85de734ed376830e344225b678c74",
+        "status" : "passed",
+        "time" : {
+          "start" : 1693726921732,
+          "stop" : 1693726921733,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_d",
+        "uid" : "fb7bc5ab50d9a493",
+        "parentUid" : "55b85de734ed376830e344225b678c74",
+        "status" : "passed",
+        "time" : {
+          "start" : 1693726921740,
+          "stop" : 1693726921740,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_x",
+        "uid" : "20af4daf0596b913",
+        "parentUid" : "55b85de734ed376830e344225b678c74",
+        "status" : "passed",
+        "time" : {
+          "start" : 1693726921751,
+          "stop" : 1693726921751,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_b",
+        "uid" : "b617c44acb741458",
+        "parentUid" : "55b85de734ed376830e344225b678c74",
+        "status" : "passed",
+        "time" : {
+          "start" : 1693726921730,
+          "stop" : 1693726921730,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_g",
+        "uid" : "eeb67a675c45033d",
+        "parentUid" : "55b85de734ed376830e344225b678c74",
+        "status" : "passed",
+        "time" : {
+          "start" : 1693726921746,
+          "stop" : 1693726921746,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_f",
+        "uid" : "4be52ae71409a32f",
+        "parentUid" : "55b85de734ed376830e344225b678c74",
+        "status" : "passed",
+        "time" : {
+          "start" : 1693726921742,
+          "stop" : 1693726921743,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_z",
+        "uid" : "ac83a647778f784e",
+        "parentUid" : "55b85de734ed376830e344225b678c74",
+        "status" : "passed",
+        "time" : {
+          "start" : 1693726921748,
+          "stop" : 1693726921748,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_login[user1]",
+        "uid" : "cb5c47b11a19407b",
+        "parentUid" : "55b85de734ed376830e344225b678c74",
+        "status" : "passed",
+        "time" : {
+          "start" : 1693726937398,
+          "stop" : 1693726937790,
+          "duration" : 392
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "{'casename': '执行登录-无效用户', 'caselevel': 'p0', 'username': 'syz', 'password': '123456', 'expected': '用户登录成功', 'asserttype': 'new_url', 'elepath': '', 'elecontext': 'http://115.28.108.130/newecshop/user.php?act=account_detail'}" ]
+      }, {
+        "name" : "test_c",
+        "uid" : "474005f12fa33f59",
+        "parentUid" : "55b85de734ed376830e344225b678c74",
+        "status" : "passed",
+        "time" : {
+          "start" : 1693726921737,
+          "stop" : 1693726921737,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_login[user2]",
+        "uid" : "a54fda54ccb23cee",
+        "parentUid" : "55b85de734ed376830e344225b678c74",
+        "status" : "passed",
+        "time" : {
+          "start" : 1693726947077,
+          "stop" : 1693726947553,
+          "duration" : 476
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "{'casename': '执行登录-无效用户', 'caselevel': 'p3', 'username': 'syz001', 'password': '', 'expected': '用户登录失败', 'asserttype': ['fe', 'xpath'], 'elepath': '//*[@id=\"msg-error-text\"]', 'elecontext': '请输入密码'}" ]
+      } ],
+      "uid" : "55b85de734ed376830e344225b678c74"
+    }, {
+      "name" : "24820-MainThread",
+      "children" : [ {
+        "name" : "test_b",
+        "uid" : "3b7954b36812c8c5",
+        "parentUid" : "d7f0daa60b90ef7a5e03179b968eb5f2",
+        "status" : "passed",
+        "time" : {
+          "start" : 1693726563228,
+          "stop" : 1693726563228,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_login[user2]",
+        "uid" : "94ec65b229fb0a30",
+        "parentUid" : "d7f0daa60b90ef7a5e03179b968eb5f2",
+        "status" : "passed",
+        "time" : {
+          "start" : 1693726593898,
+          "stop" : 1693726594355,
+          "duration" : 457
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "{'casename': '执行登录-无效用户', 'caselevel': 'p3', 'username': 'syz001', 'password': '', 'expected': '用户登录失败', 'asserttype': ['fe', 'xpath'], 'elepath': '//*[@id=\"msg-error-text\"]', 'elecontext': '请输入密码'}" ]
+      }, {
+        "name" : "test_d",
+        "uid" : "2985d25d758ec25c",
+        "parentUid" : "d7f0daa60b90ef7a5e03179b968eb5f2",
+        "status" : "passed",
+        "time" : {
+          "start" : 1693726563242,
+          "stop" : 1693726563242,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_x",
+        "uid" : "e0afe20f61324764",
+        "parentUid" : "d7f0daa60b90ef7a5e03179b968eb5f2",
+        "status" : "passed",
+        "time" : {
+          "start" : 1693726563261,
+          "stop" : 1693726563261,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_f",
+        "uid" : "e798ceaba96e2140",
+        "parentUid" : "d7f0daa60b90ef7a5e03179b968eb5f2",
+        "status" : "passed",
+        "time" : {
+          "start" : 1693726563245,
+          "stop" : 1693726563245,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_02",
+        "uid" : "40ee9194230cde28",
+        "parentUid" : "d7f0daa60b90ef7a5e03179b968eb5f2",
+        "status" : "passed",
+        "time" : {
+          "start" : 1693726563232,
+          "stop" : 1693726563232,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_g",
+        "uid" : "512d6b04f79e440",
+        "parentUid" : "d7f0daa60b90ef7a5e03179b968eb5f2",
+        "status" : "passed",
+        "time" : {
+          "start" : 1693726563250,
+          "stop" : 1693726563250,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_c",
+        "uid" : "9888647efbe0a570",
+        "parentUid" : "d7f0daa60b90ef7a5e03179b968eb5f2",
+        "status" : "passed",
+        "time" : {
+          "start" : 1693726563238,
+          "stop" : 1693726563239,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_01",
+        "uid" : "1e475117521c5282",
+        "parentUid" : "d7f0daa60b90ef7a5e03179b968eb5f2",
+        "status" : "passed",
+        "time" : {
+          "start" : 1693726563219,
+          "stop" : 1693726563219,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_login[user0]",
+        "uid" : "6c40795f70cb5d18",
+        "parentUid" : "d7f0daa60b90ef7a5e03179b968eb5f2",
+        "status" : "passed",
+        "time" : {
+          "start" : 1693726569056,
+          "stop" : 1693726570598,
+          "duration" : 1542
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "{'casename': '执行登录-无效用户', 'caselevel': 'p3', 'username': 'syz001', 'password': '123456', 'expected': '用户登录失败', 'asserttype': ['fe', 'xpath'], 'elepath': '//*[@id=\"msg-error-text\"]', 'elecontext': '用户名或密码错误'}" ]
+      }, {
+        "name" : "test_login[user1]",
+        "uid" : "d0e4b39ab8309377",
+        "parentUid" : "d7f0daa60b90ef7a5e03179b968eb5f2",
+        "status" : "passed",
+        "time" : {
+          "start" : 1693726584134,
+          "stop" : 1693726584380,
+          "duration" : 246
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "{'casename': '执行登录-无效用户', 'caselevel': 'p0', 'username': 'syz', 'password': '123456', 'expected': '用户登录成功', 'asserttype': 'new_url', 'elepath': '', 'elecontext': 'http://115.28.108.130/newecshop/user.php?act=account_detail'}" ]
+      }, {
+        "name" : "test_z",
+        "uid" : "f67cb651f66187c1",
+        "parentUid" : "d7f0daa60b90ef7a5e03179b968eb5f2",
+        "status" : "passed",
+        "time" : {
+          "start" : 1693726563255,
+          "stop" : 1693726563256,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_a",
+        "uid" : "85c48c02282f43f1",
+        "parentUid" : "d7f0daa60b90ef7a5e03179b968eb5f2",
+        "status" : "passed",
+        "time" : {
+          "start" : 1693726563224,
+          "stop" : 1693726563224,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "d7f0daa60b90ef7a5e03179b968eb5f2"
+    }, {
+      "name" : "20104-MainThread",
+      "children" : [ {
+        "name" : "test_z",
+        "uid" : "16bd889ccbd6a36a",
+        "parentUid" : "90132006903638c70a5c635ded05979a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1693733612792,
+          "stop" : 1693733612792,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_b",
+        "uid" : "6f109b4858ac87c4",
+        "parentUid" : "90132006903638c70a5c635ded05979a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1693733612765,
+          "stop" : 1693733612765,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_01",
+        "uid" : "816e65ab648c04ef",
+        "parentUid" : "90132006903638c70a5c635ded05979a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1693733612755,
+          "stop" : 1693733612755,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_c",
+        "uid" : "7ae0cfccbd6bc723",
+        "parentUid" : "90132006903638c70a5c635ded05979a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1693733612776,
+          "stop" : 1693733612776,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_login[user1]",
+        "uid" : "7f9fd65b714ec93a",
+        "parentUid" : "90132006903638c70a5c635ded05979a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1693733635335,
+          "stop" : 1693733635648,
+          "duration" : 313
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "{'casename': '执行登录-无效用户', 'caselevel': 'p0', 'username': 'syz', 'password': '123456', 'expected': '用户登录成功', 'asserttype': 'new_url', 'elepath': '', 'elecontext': 'http://115.28.108.130/newecshop/user.php?act=account_detail'}" ]
+      }, {
+        "name" : "test_login[user2]",
+        "uid" : "ed1e56a8d49893e8",
+        "parentUid" : "90132006903638c70a5c635ded05979a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1693733646164,
+          "stop" : 1693733646767,
+          "duration" : 603
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "{'casename': '执行登录-无效用户', 'caselevel': 'p3', 'username': 'syz001', 'password': '', 'expected': '用户登录失败', 'asserttype': ['fe', 'xpath'], 'elepath': '//*[@id=\"msg-error-text\"]', 'elecontext': '请输入密码'}" ]
+      }, {
+        "name" : "test_x",
+        "uid" : "f374ebb27c7a7b26",
+        "parentUid" : "90132006903638c70a5c635ded05979a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1693733612794,
+          "stop" : 1693733612794,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_d",
+        "uid" : "f52784b627348618",
+        "parentUid" : "90132006903638c70a5c635ded05979a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1693733612780,
+          "stop" : 1693733612780,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_02",
+        "uid" : "bf2804f9c1f8ce22",
+        "parentUid" : "90132006903638c70a5c635ded05979a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1693733612769,
+          "stop" : 1693733612770,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_g",
+        "uid" : "69558cefc76753a",
+        "parentUid" : "90132006903638c70a5c635ded05979a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1693733612788,
+          "stop" : 1693733612788,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_a",
+        "uid" : "65df5045b593747d",
+        "parentUid" : "90132006903638c70a5c635ded05979a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1693733612760,
+          "stop" : 1693733612760,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_login[user0]",
+        "uid" : "6e01b88930f16f3e",
+        "parentUid" : "90132006903638c70a5c635ded05979a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1693733623161,
+          "stop" : 1693733624807,
+          "duration" : 1646
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "{'casename': '执行登录-无效用户', 'caselevel': 'p3', 'username': 'syz001', 'password': '123456', 'expected': '用户登录失败', 'asserttype': ['fe', 'xpath'], 'elepath': '//*[@id=\"msg-error-text\"]', 'elecontext': '用户名或密码错误'}" ]
+      }, {
+        "name" : "test_f",
+        "uid" : "ff19fef954659ce",
+        "parentUid" : "90132006903638c70a5c635ded05979a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1693733612785,
+          "stop" : 1693733612785,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "90132006903638c70a5c635ded05979a"
+    }, {
+      "name" : "23152-MainThread",
+      "children" : [ {
+        "name" : "test_d",
+        "uid" : "d2d5bc30e253a11",
+        "parentUid" : "9e120815be616174f393993f06e19958",
+        "status" : "passed",
+        "time" : {
+          "start" : 1693726465834,
+          "stop" : 1693726465834,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_g",
+        "uid" : "5562c0b0d36ce5dc",
+        "parentUid" : "9e120815be616174f393993f06e19958",
+        "status" : "passed",
+        "time" : {
+          "start" : 1693726465840,
+          "stop" : 1693726465841,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_f",
+        "uid" : "fe96cb8b581bc5ae",
+        "parentUid" : "9e120815be616174f393993f06e19958",
+        "status" : "passed",
+        "time" : {
+          "start" : 1693726465837,
+          "stop" : 1693726465837,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_01",
+        "uid" : "c9611c4b74caaec9",
+        "parentUid" : "9e120815be616174f393993f06e19958",
+        "status" : "passed",
+        "time" : {
+          "start" : 1693726465815,
+          "stop" : 1693726465815,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_login[user0]",
+        "uid" : "862240c6e0664b92",
+        "parentUid" : "9e120815be616174f393993f06e19958",
+        "status" : "passed",
+        "time" : {
+          "start" : 1693726470579,
+          "stop" : 1693726472080,
+          "duration" : 1501
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "{'casename': '执行登录-无效用户', 'caselevel': 'p3', 'username': 'syz001', 'password': '123456', 'expected': '用户登录失败', 'asserttype': ['fe', 'xpath'], 'elepath': '//*[@id=\"msg-error-text\"]', 'elecontext': '用户名或密码错误'}" ]
+      }, {
+        "name" : "test_b",
+        "uid" : "1f5713e436b8654b",
+        "parentUid" : "9e120815be616174f393993f06e19958",
+        "status" : "passed",
+        "time" : {
+          "start" : 1693726465822,
+          "stop" : 1693726465822,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_login[user2]",
+        "uid" : "70712e252eeab0e5",
+        "parentUid" : "9e120815be616174f393993f06e19958",
+        "status" : "passed",
+        "time" : {
+          "start" : 1693726492151,
+          "stop" : 1693726492631,
+          "duration" : 480
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "{'casename': '执行登录-无效用户', 'caselevel': 'p3', 'username': 'syz001', 'password': '', 'expected': '用户登录失败', 'asserttype': ['fe', 'xpath'], 'elepath': '//*[@id=\"msg-error-text\"]', 'elecontext': '请输入密码'}" ]
+      }, {
+        "name" : "test_a",
+        "uid" : "f82a3715b1277e7d",
+        "parentUid" : "9e120815be616174f393993f06e19958",
+        "status" : "passed",
+        "time" : {
+          "start" : 1693726465819,
+          "stop" : 1693726465820,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_c",
+        "uid" : "3d9a35d626bece20",
+        "parentUid" : "9e120815be616174f393993f06e19958",
+        "status" : "passed",
+        "time" : {
+          "start" : 1693726465831,
+          "stop" : 1693726465831,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_z",
+        "uid" : "70125841a3ab1273",
+        "parentUid" : "9e120815be616174f393993f06e19958",
+        "status" : "passed",
+        "time" : {
+          "start" : 1693726465844,
+          "stop" : 1693726465844,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_02",
+        "uid" : "1b31471f132ae645",
+        "parentUid" : "9e120815be616174f393993f06e19958",
+        "status" : "passed",
+        "time" : {
+          "start" : 1693726465826,
+          "stop" : 1693726465827,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_login[user1]",
+        "uid" : "325783c7f7ffaebc",
+        "parentUid" : "9e120815be616174f393993f06e19958",
+        "status" : "passed",
+        "time" : {
+          "start" : 1693726482122,
+          "stop" : 1693726482509,
+          "duration" : 387
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "{'casename': '执行登录-无效用户', 'caselevel': 'p0', 'username': 'syz', 'password': '123456', 'expected': '用户登录成功', 'asserttype': 'new_url', 'elepath': '', 'elecontext': 'http://115.28.108.130/newecshop/user.php?act=account_detail'}" ]
+      }, {
+        "name" : "test_x",
+        "uid" : "aebdda714635086",
+        "parentUid" : "9e120815be616174f393993f06e19958",
+        "status" : "passed",
+        "time" : {
+          "start" : 1693726465847,
+          "stop" : 1693726465847,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "9e120815be616174f393993f06e19958"
+    } ],
+    "uid" : "c851217e9ebdf6ca223165eacd0f7c98"
+  } ]
+}
