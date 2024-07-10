@@ -19,4 +19,4 @@ chromeDriver.execute_script(js, file_btn2)
 
 file_btn3 = chromeDriver.find_element(by=By.XPATH, value='//*[@id="upteainput"]')
 file_btn3.send_keys("D:\新建文本文档.txt")
-input()
+
