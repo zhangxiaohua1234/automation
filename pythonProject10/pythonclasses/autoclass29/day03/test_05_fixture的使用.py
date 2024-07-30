@@ -34,5 +34,5 @@ import pytest
 #     return 100
 #
 #
-# def test01(step01):  # 把 step01 传入
-#     print(step01)
+def test01(step01):  # 把 step01 传入
+    print(step01)
