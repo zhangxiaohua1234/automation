@@ -116,18 +116,7 @@
       <change afterPath="$PROJECT_DIR$/autoclass29期/day09-12/ecshop_api_test/reports/report_data/fcc40bca-06f8-466a-9300-1b8ffb38f1d3-result.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/autoclass29期/day09-12/ecshop_api_test/reports/report_data/fee70b04-57d3-48ff-b3d9-d2bfb44c4fa0-container.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/autoclass29期/day09-12/ecshop_api_test/reports/report_data/ffef8cad-c4df-4875-aadf-329170f5b29c-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zidonghualianxi练习/commons/request_utils.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zidonghualianxi练习/pytest.ini" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zidonghualianxi练习/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zidonghualianxi练习/run.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zidonghualianxi练习/testcases/test_api.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Room Storage/Pythontest23/htmlrunner.py" beforeDir="false" afterPath="$PROJECT_DIR$/Room Storage/Pythontest23/htmlrunner.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/autoclass29期/day04/autotest/conftest.py" beforeDir="false" afterPath="$PROJECT_DIR$/autoclass29期/day04/autotest/conftest.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/autoclass29期/day04/autotest/testcase/shop/test_login.py" beforeDir="false" afterPath="$PROJECT_DIR$/autoclass29期/day04/autotest/testcase/shop/test_login.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/autoclass29期/day07/appautotest/conftest.py" beforeDir="false" afterPath="$PROJECT_DIR$/autoclass29期/day07/appautotest/conftest.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/autoclass29期/day09-12/ecshop_api_test" beforeDir="false" afterPath="$PROJECT_DIR$/autoclass29期/day09-12/ecshop_api_test" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/autoclass29期/day09-12/ecshop_api_test/conftest.py" beforeDir="false" afterPath="$PROJECT_DIR$/autoclass29期/day09-12/ecshop_api_test/conftest.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/autoclass29期/day09-12/ecshop_api_test/testcase/user_center/test_login.py" beforeDir="false" afterPath="$PROJECT_DIR$/autoclass29期/day09-12/ecshop_api_test/testcase/user_center/test_login.py" afterDir="false" />
@@ -138,8 +127,6 @@
       <change beforePath="$PROJECT_DIR$/autoclass_29练习/day09-12/ecshop_api_test/testdata/only_api/user_center/test_user_login_data.csv" beforeDir="false" afterPath="$PROJECT_DIR$/autoclass_29练习/day09-12/ecshop_api_test/testdata/only_api/user_center/test_user_login_data.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ecshop_api_test" beforeDir="false" afterPath="$PROJECT_DIR$/ecshop_api_test" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ecshop_api_test/testcase/user_center/test_login.py" beforeDir="false" afterPath="$PROJECT_DIR$/ecshop_api_test/testcase/user_center/test_login.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/zidonghualianxi/testcase/login后台.py" beforeDir="false" afterPath="$PROJECT_DIR$/zidonghualianxi/testcase/login后台.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/zidonghualianxi/testcase/转换为json.py" beforeDir="false" afterPath="$PROJECT_DIR$/zidonghualianxi/testcase/转换为json.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -183,24 +170,24 @@
     <option name="openDirectoriesWithSingleClick" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/python_files&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "D:/python_files",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\python_files" />
@@ -347,7 +334,7 @@
       <workItem from="1746630174188" duration="5579000" />
       <workItem from="1746635884160" duration="468000" />
       <workItem from="1746636500147" duration="45396000" />
-      <workItem from="1746962009264" duration="3842000" />
+      <workItem from="1746962009264" duration="6639000" />
     </task>
     <task id="LOCAL-00001" summary="全部">
       <option name="closed" value="true" />
