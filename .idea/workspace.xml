@@ -4,10 +4,140 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="42257865-c866-44e6-931b-83f1c2ec20e9" name="更改" comment="">
+    <list default="true" id="42257865-c866-44e6-931b-83f1c2ec20e9" name="更改" comment="全部">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/autoclass29期/day09-12/ecshop_api_test/logs/2025年/05月/08日/00点05分28秒.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/autoclass29期/day09-12/ecshop_api_test/logs/2025年/05月/08日/00点06分12秒.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/autoclass29期/day09-12/ecshop_api_test/logs/2025年/05月/08日/00点06分36秒.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/autoclass29期/day09-12/ecshop_api_test/logs/2025年/05月/08日/00点07分25秒.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/autoclass29期/day09-12/ecshop_api_test/logs/2025年/05月/08日/00点07分53秒.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/autoclass29期/day09-12/ecshop_api_test/logs/2025年/05月/08日/00点08分15秒.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/autoclass29期/day09-12/ecshop_api_test/logs/2025年/05月/08日/00点09分15秒.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/autoclass29期/day09-12/ecshop_api_test/logs/2025年/05月/08日/00点09分58秒.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/autoclass29期/day09-12/ecshop_api_test/logs/2025年/05月/08日/00点11分32秒.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/autoclass29期/day09-12/ecshop_api_test/logs/2025年/05月/08日/00点12分16秒.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/autoclass29期/day09-12/ecshop_api_test/logs/2025年/05月/08日/00点12分56秒.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/autoclass29期/day09-12/ecshop_api_test/logs/2025年/05月/08日/00点17分30秒.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/autoclass29期/day09-12/ecshop_api_test/logs/2025年/05月/08日/00点18分34秒.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/autoclass29期/day09-12/ecshop_api_test/logs/2025年/05月/08日/00点19分37秒.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/autoclass29期/day09-12/ecshop_api_test/logs/2025年/05月/08日/00点19分58秒.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/autoclass29期/day09-12/ecshop_api_test/logs/2025年/05月/08日/00点24分34秒.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/autoclass29期/day09-12/ecshop_api_test/logs/2025年/05月/08日/00点25分31秒.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/autoclass29期/day09-12/ecshop_api_test/logs/2025年/05月/08日/00点26分04秒.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/autoclass29期/day09-12/ecshop_api_test/logs/2025年/05月/08日/00点26分41秒.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/autoclass29期/day09-12/ecshop_api_test/logs/2025年/05月/08日/00点27分13秒.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/autoclass29期/day09-12/ecshop_api_test/logs/2025年/05月/08日/00点28分12秒.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/autoclass29期/day09-12/ecshop_api_test/logs/2025年/05月/08日/00点32分59秒.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/autoclass29期/day09-12/ecshop_api_test/logs/2025年/05月/08日/00点34分16秒.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/autoclass29期/day09-12/ecshop_api_test/logs/2025年/05月/08日/00点35分12秒.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/autoclass29期/day09-12/ecshop_api_test/logs/2025年/05月/08日/00点35分52秒.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/autoclass29期/day09-12/ecshop_api_test/logs/2025年/05月/08日/00点48分36秒.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/autoclass29期/day09-12/ecshop_api_test/logs/2025年/05月/08日/00点51分58秒.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/autoclass29期/day09-12/ecshop_api_test/logs/2025年/05月/08日/22点43分58秒.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/autoclass29期/day09-12/ecshop_api_test/logs/2025年/05月/08日/23点46分08秒.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/autoclass29期/day09-12/ecshop_api_test/logs/2025年/05月/08日/23点46分40秒.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/autoclass29期/day09-12/ecshop_api_test/logs/2025年/05月/08日/23点49分28秒.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/autoclass29期/day09-12/ecshop_api_test/reports/report_data/0476643d-9abc-4eef-8137-0c50d0bdb7ec-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/autoclass29期/day09-12/ecshop_api_test/reports/report_data/05ce3008-1575-4b5c-bf36-48ded27de9ed-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/autoclass29期/day09-12/ecshop_api_test/reports/report_data/06af0998-7e17-43fe-a49e-62658e0dd50d-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/autoclass29期/day09-12/ecshop_api_test/reports/report_data/0894eb51-7e00-45cc-9edc-f3f7d87e2ff5-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/autoclass29期/day09-12/ecshop_api_test/reports/report_data/0ad98d6b-5aaa-46e0-8bfb-e820d09cf96d-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/autoclass29期/day09-12/ecshop_api_test/reports/report_data/0c99bace-e239-4c7a-b1b2-b01e8e8930b8-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/autoclass29期/day09-12/ecshop_api_test/reports/report_data/155e24fc-a67e-4ef6-8ae1-a4f43ef228b6-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/autoclass29期/day09-12/ecshop_api_test/reports/report_data/1ce45542-5527-4b6e-9195-b71eec65e53a-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/autoclass29期/day09-12/ecshop_api_test/reports/report_data/24e0263c-6580-4ee1-a717-5b710e8725f3-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/autoclass29期/day09-12/ecshop_api_test/reports/report_data/2604e6f7-4a84-4762-8916-a50138df9a7a-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/autoclass29期/day09-12/ecshop_api_test/reports/report_data/2d57fb09-5838-4909-9634-1d6bbef45d57-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/autoclass29期/day09-12/ecshop_api_test/reports/report_data/2e85958f-e190-4da0-aeab-0f328cc09c42-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/autoclass29期/day09-12/ecshop_api_test/reports/report_data/2ef46398-65c8-48f1-bc20-3eae5e86c574-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/autoclass29期/day09-12/ecshop_api_test/reports/report_data/307b4f17-2a97-4489-8805-a1bff700426f-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/autoclass29期/day09-12/ecshop_api_test/reports/report_data/31e93142-5d20-4c02-9afb-c5d8b349ddcd-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/autoclass29期/day09-12/ecshop_api_test/reports/report_data/3cdca349-28ca-4d99-b573-e83e8dd3250f-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/autoclass29期/day09-12/ecshop_api_test/reports/report_data/456a4d2b-a804-4e81-a385-193a387a06e0-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/autoclass29期/day09-12/ecshop_api_test/reports/report_data/478cf689-1f4c-4ef8-9541-7dd33f22f8e7-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/autoclass29期/day09-12/ecshop_api_test/reports/report_data/4ba31f2b-2dd6-491c-80ed-25cc02e25b76-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/autoclass29期/day09-12/ecshop_api_test/reports/report_data/4dbe2868-8b35-4cd7-a9f1-29d2f9732855-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/autoclass29期/day09-12/ecshop_api_test/reports/report_data/535455d5-c225-4f02-8065-9e9916b9d473-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/autoclass29期/day09-12/ecshop_api_test/reports/report_data/556feba7-0b49-46aa-80f5-a62cad610ae4-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/autoclass29期/day09-12/ecshop_api_test/reports/report_data/57abf3ea-5181-473f-890f-2194deb9d6cf-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/autoclass29期/day09-12/ecshop_api_test/reports/report_data/595a7661-0ff3-4032-b67e-b16bbc3db330-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/autoclass29期/day09-12/ecshop_api_test/reports/report_data/59ceb557-d9c1-46cc-a411-d06d046f7f2f-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/autoclass29期/day09-12/ecshop_api_test/reports/report_data/5cad7f7b-0103-48aa-af4b-0806f702169a-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/autoclass29期/day09-12/ecshop_api_test/reports/report_data/5ea6bd8b-d5b4-4fa9-883e-fff630f72509-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/autoclass29期/day09-12/ecshop_api_test/reports/report_data/61c97be7-80f4-44d0-837f-4d82f856b4c3-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/autoclass29期/day09-12/ecshop_api_test/reports/report_data/6353810b-4dc2-4b5e-9166-acaf7311b07f-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/autoclass29期/day09-12/ecshop_api_test/reports/report_data/64ad0d6a-cffb-46e8-8975-794fe97d2880-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/autoclass29期/day09-12/ecshop_api_test/reports/report_data/64cc0a27-2128-4ab0-8610-15892e5d9ac5-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/autoclass29期/day09-12/ecshop_api_test/reports/report_data/6639b70e-384a-4f2a-88d6-58dbaed507ab-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/autoclass29期/day09-12/ecshop_api_test/reports/report_data/68777ae7-c644-4399-b6ac-336e83643b34-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/autoclass29期/day09-12/ecshop_api_test/reports/report_data/69230336-f376-4512-97cb-cac20ce3b087-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/autoclass29期/day09-12/ecshop_api_test/reports/report_data/6ca506ff-ec55-42e5-9c17-f52f152201c3-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/autoclass29期/day09-12/ecshop_api_test/reports/report_data/70fabbcb-574c-41f1-b828-15a217ad31be-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/autoclass29期/day09-12/ecshop_api_test/reports/report_data/72253f33-e03c-42c4-885b-0649b1b98b8b-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/autoclass29期/day09-12/ecshop_api_test/reports/report_data/733bd29c-0afc-43ef-a08f-bb159f0ffcf7-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/autoclass29期/day09-12/ecshop_api_test/reports/report_data/7604642b-a264-46d1-b346-18800e232ef3-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/autoclass29期/day09-12/ecshop_api_test/reports/report_data/7837745d-e2ca-4f44-8ba1-f5d1501b48aa-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/autoclass29期/day09-12/ecshop_api_test/reports/report_data/7e4fb792-d6a9-4e70-bbac-a08926fdea81-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/autoclass29期/day09-12/ecshop_api_test/reports/report_data/87646584-1ff0-4519-900d-922d613cd107-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/autoclass29期/day09-12/ecshop_api_test/reports/report_data/8ade2a3c-efdf-4d73-a858-070a9df26130-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/autoclass29期/day09-12/ecshop_api_test/reports/report_data/8b54ae19-af90-46b4-a84c-d76475e39910-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/autoclass29期/day09-12/ecshop_api_test/reports/report_data/8ba623e5-a946-4b04-87d8-be3b98f5db8c-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/autoclass29期/day09-12/ecshop_api_test/reports/report_data/91637084-9be0-4381-83b6-7dc25b0196e1-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/autoclass29期/day09-12/ecshop_api_test/reports/report_data/92873823-b2f9-4df5-b2ee-02391e019e3d-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/autoclass29期/day09-12/ecshop_api_test/reports/report_data/9b6fa324-839b-496d-891d-43500f3b7008-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/autoclass29期/day09-12/ecshop_api_test/reports/report_data/9d679f21-003a-406d-9613-828bbe293053-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/autoclass29期/day09-12/ecshop_api_test/reports/report_data/a1c65fbb-9879-424a-bf87-c7be05f33d76-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/autoclass29期/day09-12/ecshop_api_test/reports/report_data/abbd0de2-7849-415d-a771-43b76fe08ba1-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/autoclass29期/day09-12/ecshop_api_test/reports/report_data/abe036f3-2589-484b-b269-2af12e0d0ad2-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/autoclass29期/day09-12/ecshop_api_test/reports/report_data/af9c915b-394a-4a26-a6cb-278d0e40dc71-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/autoclass29期/day09-12/ecshop_api_test/reports/report_data/b2eed30e-f36c-4576-ada7-95800025de60-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/autoclass29期/day09-12/ecshop_api_test/reports/report_data/b3e2b40d-eb60-47ce-97fe-aac080cda79a-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/autoclass29期/day09-12/ecshop_api_test/reports/report_data/b54593d4-57f3-4dca-b262-3cfbf2c348db-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/autoclass29期/day09-12/ecshop_api_test/reports/report_data/b749e6d7-732b-4780-b9a4-e391318714f3-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/autoclass29期/day09-12/ecshop_api_test/reports/report_data/c13c31e8-6604-49db-839b-9be619167415-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/autoclass29期/day09-12/ecshop_api_test/reports/report_data/c41e3a74-46b4-40e8-948c-0de4d406d7f1-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/autoclass29期/day09-12/ecshop_api_test/reports/report_data/c9d8bff9-b756-4ea5-a263-d4d6e6a9a288-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/autoclass29期/day09-12/ecshop_api_test/reports/report_data/cfd8f249-52e0-40c7-b7dd-4a491e60526a-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/autoclass29期/day09-12/ecshop_api_test/reports/report_data/d09294c9-7673-4697-af22-4c157bb20c23-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/autoclass29期/day09-12/ecshop_api_test/reports/report_data/d1644453-0284-4254-ba4b-cfa1a3d171c9-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/autoclass29期/day09-12/ecshop_api_test/reports/report_data/d3a4d0d9-41e0-4b83-86fc-57a3bb24bcf9-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/autoclass29期/day09-12/ecshop_api_test/reports/report_data/d6e85210-57b8-4fd2-92d0-adca491b9c0b-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/autoclass29期/day09-12/ecshop_api_test/reports/report_data/d84909d8-e9f0-4a2a-8be8-caf496dfc4fc-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/autoclass29期/day09-12/ecshop_api_test/reports/report_data/d9a0dd53-f4cb-4550-bff9-cf1f05cf9022-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/autoclass29期/day09-12/ecshop_api_test/reports/report_data/da58cdad-52ec-4eeb-a464-af4d1cf5160c-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/autoclass29期/day09-12/ecshop_api_test/reports/report_data/e59f62a9-e93d-4670-956c-87902deaec34-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/autoclass29期/day09-12/ecshop_api_test/reports/report_data/ea8d877c-734b-48e0-a9a5-a78f45fe7ccd-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/autoclass29期/day09-12/ecshop_api_test/reports/report_data/ef7777f3-b6c6-4938-a372-5b94dca7febc-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/autoclass29期/day09-12/ecshop_api_test/reports/report_data/f00ac357-52f0-4e15-85ba-b0a97da45793-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/autoclass29期/day09-12/ecshop_api_test/reports/report_data/f0483183-2889-4cb6-8ce3-9c802da63e46-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/autoclass29期/day09-12/ecshop_api_test/reports/report_data/f0f16bab-7c47-42ad-9627-6fe08618a6af-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/autoclass29期/day09-12/ecshop_api_test/reports/report_data/f1571779-ac8a-4917-ad4a-ba434c322345-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/autoclass29期/day09-12/ecshop_api_test/reports/report_data/f2da38b5-a257-4f61-ad46-929701fe3256-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/autoclass29期/day09-12/ecshop_api_test/reports/report_data/f72ccf10-891f-43c7-ba18-fbf41d5efa5b-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/autoclass29期/day09-12/ecshop_api_test/reports/report_data/fcc40bca-06f8-466a-9300-1b8ffb38f1d3-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/autoclass29期/day09-12/ecshop_api_test/reports/report_data/fee70b04-57d3-48ff-b3d9-d2bfb44c4fa0-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/autoclass29期/day09-12/ecshop_api_test/reports/report_data/ffef8cad-c4df-4875-aadf-329170f5b29c-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject10/selenium_demo/.idea/selenium_demo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject10/selenium_demo/selenium_demo/.idea/selenium_demo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zidonghualianxi/testcase/login前台.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zidonghualianxi/testcase/login后台.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zidonghualianxi/testcase/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zidonghualianxi/testcase/转换为json.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/autoclass29期/day08/jecshop_api/shop_index/search.py" beforeDir="false" afterPath="$PROJECT_DIR$/autoclass29期/day08/jecshop_api/shop_index/search.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/autoclass29期/day09-12/ecshop_api_test" beforeDir="false" afterPath="$PROJECT_DIR$/autoclass29期/day09-12/ecshop_api_test" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/autoclass29期/day09-12/ecshop_api_test/testcase/user_center/test_login.py" beforeDir="false" afterPath="$PROJECT_DIR$/autoclass29期/day09-12/ecshop_api_test/testcase/user_center/test_login.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/autoclass29期/day09-12/ecshop_api_test/testdata/only_api/user_center/test_user_login_data.csv" beforeDir="false" afterPath="$PROJECT_DIR$/autoclass29期/day09-12/ecshop_api_test/testdata/only_api/user_center/test_user_login_data.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/autoclass_29练习/day08/ecshop_api_test/shop_index/search.py" beforeDir="false" afterPath="$PROJECT_DIR$/autoclass_29练习/day08/ecshop_api_test/shop_index/search.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/autoclass_29练习/day09-12/ecshop_api_test" beforeDir="false" afterPath="$PROJECT_DIR$/autoclass_29练习/day09-12/ecshop_api_test" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/autoclass_29练习/day09-12/ecshop_api_test/testcase/user_center/test_login.py" beforeDir="false" afterPath="$PROJECT_DIR$/autoclass_29练习/day09-12/ecshop_api_test/testcase/user_center/test_login.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/autoclass_29练习/day09-12/ecshop_api_test/testdata/only_api/user_center/test_user_login_data.csv" beforeDir="false" afterPath="$PROJECT_DIR$/autoclass_29练习/day09-12/ecshop_api_test/testdata/only_api/user_center/test_user_login_data.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/autoclass_29练习/day09-12/读取csv-demo-02.py" beforeDir="false" afterPath="$PROJECT_DIR$/autoclass_29练习/day09-12/读取csv-demo-02.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ecshop_api_test" beforeDir="false" afterPath="$PROJECT_DIR$/ecshop_api_test" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecshop_api_test/testcase/user_center/test_login.py" beforeDir="false" afterPath="$PROJECT_DIR$/ecshop_api_test/testcase/user_center/test_login.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonProject10/pythonclasses/autoclass29/day01/demo00_selenium基础.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonProject10/pythonclasses/autoclass29/day01/demo00_selenium基础.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonProject10/pythonclasses/autoclass29/day01/demo03_文件操作.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonProject10/pythonclasses/autoclass29/day01/demo03_文件操作.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +173,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2hKl8bAyCFstR0YHOEpxOeYGXIc" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="openDirectoriesWithSingleClick" value="true" />
@@ -50,32 +183,39 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/python_files/pythonProject10/pythonclasses/autoclass29/day01&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/python_files/2025_4_19JieKoulianxi/day09/ecshop_api_test/testdata&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.gitee.ui.GiteeSettingsConfigurable&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\python_files\2025_4_19JieKoulianxi\day09\ecshop_api_test\testdata" />
+      <recent name="D:\python_files\2025_4_19JieKoulianxi\day09" />
+      <recent name="D:\python_files\2025_4_19JieKoulianxi\day09\ecshop_api_test\testcase" />
       <recent name="D:\python_files\pythonProject10\pythonclasses\autoclass29\day01" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\python_files\pythonProject10\pythonclasses\autoclass29" />
-      <recent name="D:\python_files\pythonProject10\pythonclasses\autoclass29\day01" />
-      <recent name="D:\python_files\pythonProject10" />
-      <recent name="D:\python_files\pythonProject10\pythonclasses" />
-      <recent name="D:\python_files" />
+      <recent name="D:\python_files\zidonghualianxi" />
+      <recent name="D:\python_files\JieKoulianxi\day09\ecshop_api_test" />
+      <recent name="D:\python_files\JieKoulianxi\day09\ecshop_api_test\utils" />
+      <recent name="D:\python_files\2025_4_19JieKoulianxi\day09\ecshop_api_test" />
+      <recent name="D:\python_files\2025_4_19JieKoulianxi\day09\ecshop_api_test\api\only_api" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.demo02-日期处理">
-    <configuration name="demo01-弹出框处理" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.login前台">
+    <configuration name="转换为json" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_files" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -83,12 +223,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pythonProject10/pythonclasses/autoclass29/day02" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/zidonghualianxi/testcase" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="D:\python_files\pythonProject10\pythonclasses\autoclass29\day02\demo01-弹出框处理.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/zidonghualianxi/testcase/转换为json.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -97,7 +237,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="demo01-options" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="login前台" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_files" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -105,12 +245,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pythonProject10/pythonclasses/autoclass29/day02" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/zidonghualianxi/testcase" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonProject10/pythonclasses/autoclass29/day02/demo01-options.py" />
+      <option name="SCRIPT_NAME" value="D:\python_files\zidonghualianxi\testcase\login前台.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -119,7 +259,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="demo02-日期处理" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_files" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -127,12 +267,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pythonProject10/pythonclasses/autoclass29/day02" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/eashop_api_test" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonProject10/pythonclasses/autoclass29/day02/demo02-日期处理.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/eashop_api_test/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -141,64 +281,54 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="demo03-日期处理" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="pytest (login前台.py 内)" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="python_files" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/autoclass29期/day02" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/zidonghualianxi/testcase" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/autoclass29期/day02/demo03-日期处理.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/zidonghualianxi/testcase/login前台.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="demo03_文件操作" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="testcase.login前台 的 pytest" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="python_files" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pythonProject10/pythonclasses/autoclass29/day01" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/zidonghualianxi/testcase" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonProject10/pythonclasses/autoclass29/day01/demo03_文件操作.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;testcase.login前台&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.demo01-options" />
-      <item itemvalue="Python.demo01-弹出框处理" />
-      <item itemvalue="Python.demo02-日期处理" />
-      <item itemvalue="Python.demo03-日期处理" />
-      <item itemvalue="Python.demo03_文件操作" />
+      <item itemvalue="Python.login前台" />
+      <item itemvalue="Python.main" />
+      <item itemvalue="Python.转换为json" />
+      <item itemvalue="Python 测试.pytest (login前台.py 内)" />
+      <item itemvalue="Python 测试.testcase.login前台 的 pytest" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.demo02-日期处理" />
-        <item itemvalue="Python.demo03-日期处理" />
-        <item itemvalue="Python.demo01-弹出框处理" />
-        <item itemvalue="Python.demo01-options" />
-        <item itemvalue="Python.demo03_文件操作" />
+        <item itemvalue="Python.login前台" />
+        <item itemvalue="Python.转换为json" />
+        <item itemvalue="Python 测试.testcase.login前台 的 pytest" />
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python 测试.pytest (login前台.py 内)" />
       </list>
     </recent_temporary>
   </component>
@@ -215,6 +345,15 @@
       <workItem from="1717773864579" duration="1663000" />
       <workItem from="1717840475780" duration="12899000" />
       <workItem from="1718462031224" duration="10441000" />
+      <workItem from="1744128043338" duration="584000" />
+      <workItem from="1744128642182" duration="4220000" />
+      <workItem from="1744297626445" duration="1730000" />
+      <workItem from="1744557767037" duration="36245000" />
+      <workItem from="1745425640530" duration="1862000" />
+      <workItem from="1745509951010" duration="15373000" />
+      <workItem from="1746630174188" duration="5579000" />
+      <workItem from="1746635884160" duration="468000" />
+      <workItem from="1746636500147" duration="32264000" />
     </task>
     <task id="LOCAL-00001" summary="全部">
       <option name="closed" value="true" />
@@ -242,16 +381,51 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="全部" />
     <option name="LAST_COMMIT_MESSAGE" value="全部" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/python_files$demo_.coverage" NAME="demo-弹出框处理 覆盖结果" MODIFIED="1718209687758" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonProject10/pythonclasses/autoclass29/day02" />
     <SUITE FILE_PATH="coverage/python_files$demo03___1_.coverage" NAME="demo03_下拉框操作 (1) 覆盖结果" MODIFIED="1717838106031" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonProject10/pythonclasses/autoclass29/day01" />
-    <SUITE FILE_PATH="coverage/python_files$demo02_.coverage" NAME="demo02-日期处理 覆盖结果" MODIFIED="1718466335368" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonProject10/pythonclasses/autoclass29/day02" />
-    <SUITE FILE_PATH="coverage/python_files$demo03_.coverage" NAME="demo03-日期处理 覆盖结果" MODIFIED="1718466112886" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/autoclass29期/day02" />
+    <SUITE FILE_PATH="coverage/python_files$main__2_.coverage" NAME="main (2) 覆盖结果" MODIFIED="1722359460622" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonProject10/pythonclasses/autoclass29/day03/shop" />
+    <SUITE FILE_PATH="coverage/python_files$data_utils.coverage" NAME="data_utils 覆盖结果" MODIFIED="1745596274746" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/a2025_4_19JieKoulianxi/day09/ecshop_api_test/utils" />
+    <SUITE FILE_PATH="coverage/python_files$pytest__test_py__.coverage" NAME="pytest (test.py 内) 覆盖结果" MODIFIED="1746894352201" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/zidonghualianxi/testcase" />
+    <SUITE FILE_PATH="coverage/python_files$test_04_fixture_test_01__pytest.coverage" NAME="test_04_fixture.test_01 的 pytest 覆盖结果" MODIFIED="1720628994981" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonProject10/pythonclasses/autoclass29/day03" />
+    <SUITE FILE_PATH="coverage/python_files$test03_.coverage" NAME="test03_断言 覆盖结果" MODIFIED="1720456972781" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonProject10/pythonclasses/autoclass29/day03" />
+    <SUITE FILE_PATH="coverage/python_files$test_login_test_login__pytest__1_.coverage" NAME="test_login.test_login 的 pytest (1) 覆盖结果" MODIFIED="1746715436784" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/autoclass29期/day09-12/ecshop_api_test/testcase/user_center" />
+    <SUITE FILE_PATH="coverage/python_files$pytest__test02__py__.coverage" NAME="pytest (test02_启动浏览器.py 内) 覆盖结果" MODIFIED="1720538556599" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonProject10/pythonclasses/autoclass29/day03" />
+    <SUITE FILE_PATH="coverage/python_files$demo01_.coverage" NAME="demo01_单选框操作 覆盖结果" MODIFIED="1744130058706" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonProject10/pythonclasses/autoclass29/day01" />
+    <SUITE FILE_PATH="coverage/python_files$json.coverage" NAME="转换为json 覆盖结果" MODIFIED="1746899329759" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/zidonghualianxi/testcase" />
+    <SUITE FILE_PATH="coverage/python_files$pytest__test_demo02_testcase_py__.coverage" NAME="pytest (test_demo02-testcase.py 内) 覆盖结果" MODIFIED="1720363074833" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonProject10/pythonclasses/autoclass29/day03" />
+    <SUITE FILE_PATH="coverage/python_files$main.coverage" NAME="main 覆盖结果" MODIFIED="1746717894325" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/eashop_api_test" />
+    <SUITE FILE_PATH="coverage/python_files$login_TestApi_test_select__pytest.coverage" NAME="login.TestApi.test_select 的 pytest 覆盖结果" MODIFIED="1746885173375" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/zidonghualianxi/testcase" />
+    <SUITE FILE_PATH="coverage/python_files$test_04_fixture_Test01__pytest.coverage" NAME="test_04_fixture.Test01 的 pytest 覆盖结果" MODIFIED="1720628999670" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonProject10/pythonclasses/autoclass29/day03" />
+    <SUITE FILE_PATH="coverage/python_files$csv_demo02.coverage" NAME="读取csv-demo02 覆盖结果" MODIFIED="1745249434252" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2025_4_19JieKoulianxi/day09" />
+    <SUITE FILE_PATH="coverage/python_files$login_TestApi_test_login__pytest.coverage" NAME="login.TestApi.test_login 的 pytest 覆盖结果" MODIFIED="1746887123300" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/zidonghualianxi/testcase" />
+    <SUITE FILE_PATH="coverage/python_files$test_login_test_login__pytest.coverage" NAME="test_login.test_login 的 pytest 覆盖结果" MODIFIED="1746633890890" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/a2025_4_19JieKoulianxi/day09/ecshop_api_test/testcase/user_center" />
+    <SUITE FILE_PATH="coverage/python_files$demo_.coverage" NAME="demo-弹出框处理 覆盖结果" MODIFIED="1718209687758" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonProject10/pythonclasses/autoclass29/day02" />
+    <SUITE FILE_PATH="coverage/python_files$test_login_test_login__pytest__2_.coverage" NAME="test_login.test_login 的 pytest (2) 覆盖结果" MODIFIED="1746717764901" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/eashop_api_test/testcase/user_center" />
+    <SUITE FILE_PATH="coverage/python_files$pytest__test_login_py__.coverage" NAME="pytest (test_login.py 内) 覆盖结果" MODIFIED="1746719366693" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/autoclass29期/day09-12/ecshop_api_test/testcase/user_center" />
+    <SUITE FILE_PATH="coverage/python_files$test_04_fixture_Test01_test01__pytest.coverage" NAME="test_04_fixture.Test01.test01 的 pytest 覆盖结果" MODIFIED="1720628983252" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonProject10/pythonclasses/autoclass29/day03" />
+    <SUITE FILE_PATH="coverage/python_files$demo02_.coverage" NAME="demo02_复选框操作 覆盖结果" MODIFIED="1744130082268" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonProject10/pythonclasses/autoclass29/day01" />
+    <SUITE FILE_PATH="coverage/python_files$login__1_.coverage" NAME="login (1) 覆盖结果" MODIFIED="1746899585089" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/zidonghualianxi/testcase" />
+    <SUITE FILE_PATH="coverage/python_files$demo00_selenium.coverage" NAME="demo00_selenium基础 覆盖结果" MODIFIED="1744129814980" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonProject10/pythonclasses/autoclass29/day01" />
+    <SUITE FILE_PATH="coverage/python_files$login.coverage" NAME="login 覆盖结果" MODIFIED="1746893232948" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/zidonghualianxi/testcase" />
+    <SUITE FILE_PATH="coverage/python_files$login_TestApi_testliebiao__pytest.coverage" NAME="login.TestApi.testliebiao 的 pytest 覆盖结果" MODIFIED="1746896325860" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/zidonghualianxi/testcase" />
+    <SUITE FILE_PATH="coverage/python_files$demo00_selenium_.coverage" NAME="demo00-selenium基础-八大元素定位方法 覆盖结果" MODIFIED="1744128799993" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/autoclass29期/day01" />
+    <SUITE FILE_PATH="coverage/python_files$selenium.coverage" NAME="selenium基础 覆盖结果" MODIFIED="1717603051310" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonProject10/pythonclasses/autoclass29" />
+    <SUITE FILE_PATH="coverage/python_files$test03__test01__pytest.coverage" NAME="test03_断言.test01 的 pytest 覆盖结果" MODIFIED="1720457434471" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonProject10/pythonclasses/autoclass29/day03" />
+    <SUITE FILE_PATH="coverage/python_files$test_04_fixture_Test01_test02__pytest.coverage" NAME="test_04_fixture.Test01.test02 的 pytest 覆盖结果" MODIFIED="1720628328462" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonProject10/pythonclasses/autoclass29/day03" />
+    <SUITE FILE_PATH="coverage/python_files$pytest__test_05_fixture_py__.coverage" NAME="pytest (test_05_fixture的使用.py 内) 覆盖结果" MODIFIED="1720715688547" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonProject10/pythonclasses/autoclass29/day03" />
+    <SUITE FILE_PATH="coverage/python_files$csv_demo_02.coverage" NAME="读取csv-demo-02 覆盖结果" MODIFIED="1745073252188" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/autoclass_29练习/day09-12" />
+    <SUITE FILE_PATH="coverage/python_files$pytest__login_py__.coverage" NAME="pytest (login.py 内) 覆盖结果" MODIFIED="1746895982231" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/zidonghualianxi/testcase" />
+    <SUITE FILE_PATH="coverage/python_files$main__1_.coverage" NAME="main (1) 覆盖结果" MODIFIED="1722359322870" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonProject10/pythonclasses/autoclass29/day03" />
+    <SUITE FILE_PATH="coverage/python_files$demo03_.coverage" NAME="demo03_文件操作 覆盖结果" MODIFIED="1744209178905" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonProject10/pythonclasses/autoclass29/day01" />
+    <SUITE FILE_PATH="coverage/python_files$test_05_fixture_test01__pytest.coverage" NAME="test_05_fixture的使用.test01 的 pytest 覆盖结果" MODIFIED="1720715664703" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonProject10/pythonclasses/autoclass29/day03" />
     <SUITE FILE_PATH="coverage/python_files$demo01_options.coverage" NAME="demo01-options 覆盖结果" MODIFIED="1718205186148" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonProject10/pythonclasses/autoclass29/day02" />
     <SUITE FILE_PATH="coverage/python_files$demo02___1_.coverage" NAME="demo02_复选框操作 (1) 覆盖结果" MODIFIED="1717608325828" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonProject10/pythonclasses/autoclass29/day01" />
-    <SUITE FILE_PATH="coverage/python_files$selenium.coverage" NAME="selenium基础 覆盖结果" MODIFIED="1717603051310" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonProject10/pythonclasses/autoclass29" />
+    <SUITE FILE_PATH="coverage/python_files$pytest__test_04_fixture_py__.coverage" NAME="pytest (test_04_fixture.py 内) 覆盖结果" MODIFIED="1720628987646" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonProject10/pythonclasses/autoclass29/day03" />
+    <SUITE FILE_PATH="coverage/python_files$test02__test_01__pytest.coverage" NAME="test02_启动浏览器.test_01 的 pytest 覆盖结果" MODIFIED="1720365943101" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonProject10/pythonclasses/autoclass29/day03" />
+    <SUITE FILE_PATH="coverage/python_files$search.coverage" NAME="search 覆盖结果" MODIFIED="1744935971034" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/autoclass29期/day08/jecshop_api/shop_index" />
   </component>
 </project>

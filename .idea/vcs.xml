@@ -4,7 +4,7 @@
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/autoclass29期/day09-12/ecshop_api_test" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/autoclass_29练习/day09-12/ecshop_api_test" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/eashop_api_test" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/ecshop_api_test" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/test01/autotest_1209" vcs="Git" />
   </component>
 </project>

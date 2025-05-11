@@ -11,7 +11,7 @@ from time import sleep
 
 mydriver = webdriver.Chrome()
 
-mydriver.get("D:\python_files\pythonProject10\selenium_demo\selenium_demo\selenium.html")
+# mydriver.get("D:\python_files\pythonProject10\selenium_demo\selenium_demo\selenium.html")
 
 # mydriver.implicitly_wait(5)
 # # 精确匹配By.LINK_TEXT  模糊匹配 By.PARTIAL_LINK_TEXT
