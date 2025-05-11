@@ -20,7 +20,7 @@ class BASE_DIR():
     REPORT_DIR = PROJECT_DIR / "report"
     REPORT_DATA_DIR = REPORT_DIR / "report_data"
     REPORT_HTML_DIR = REPORT_DIR / "report_html"
-    TESTCASE_DIR = PROJECT_DIR / "testcase"
+    TESTCASE_DIR = PROJECT_DIR / "testcases"
     UTILS_DIR = PROJECT_DIR / "UTILS"
 
 

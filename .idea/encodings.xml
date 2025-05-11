@@ -4,5 +4,6 @@
     <file url="file://$PROJECT_DIR$/autoclass29期/day09-12/ecshop_api_test/testdata/only_api/user_center/test_user_login_data.csv" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/zidonghualianxi/day09/ecshop_api_test/testdata/only_api/user_center/test_user_login_data.csv" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/zidonghualianxi/day09/params.csv" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zidonghualianxi练习/pytest.ini" charset="UTF-8" />
   </component>
 </project>

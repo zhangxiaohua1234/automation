@@ -431,7 +431,7 @@ class Template_mixin(object):
     .failCase   { color: #FF6600; font-weight: bold; }
     .errorCase  { color: #c00; font-weight: bold; }
     .hiddenRow  { display: none; }
-    .testcase   { margin-left: 2em; }
+    .testcases   { margin-left: 2em; }
 
 
     /* -- ending ---------------------------------------------------------------------- */
@@ -519,7 +519,7 @@ class Template_mixin(object):
 
     REPORT_TEST_WITH_OUTPUT_TMPL = r"""
 <tr id='%(tid)s' class='%(Class)s'>
-    <td class='%(style)s'><div class='testcase'>%(desc)s</div></td>
+    <td class='%(style)s'><div class='testcases'>%(desc)s</div></td>
     <td colspan='5' align='center'>
 
     <!--css div popup start-->
@@ -539,7 +539,7 @@ class Template_mixin(object):
 
     REPORT_TEST_NO_OUTPUT_TMPL = r"""
 <tr id='%(tid)s' class='%(Class)s'>
-    <td class='%(style)s'><div class='testcase'>%(desc)s</div></td>
+    <td class='%(style)s'><div class='testcases'>%(desc)s</div></td>
     <td colspan='5' align='center'>%(status)s</td>
 </tr>
 """  # variables: (tid, Class, style, desc, status)

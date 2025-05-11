@@ -24,7 +24,7 @@ from page.login.login_page_api import login_step
 testdata = JSON_UTILS().json_file_load(BASE_DIR.TESTDATA_DIR / "data_login.json")
 
 
-@pytest.mark.parametrize("user", testdata['testcase'])
+@pytest.mark.parametrize("user", testdata['testcases'])
 def test_login(driver, user):
     logging.info("当前执行用例->"+user["casename"]+"级别->"+user["caselevel"])
     login_step(driver, user=user["username"], passwd=user["password"])
