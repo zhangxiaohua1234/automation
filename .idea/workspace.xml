@@ -116,6 +116,12 @@
       <change afterPath="$PROJECT_DIR$/autoclass29期/day09-12/ecshop_api_test/reports/report_data/fcc40bca-06f8-466a-9300-1b8ffb38f1d3-result.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/autoclass29期/day09-12/ecshop_api_test/reports/report_data/fee70b04-57d3-48ff-b3d9-d2bfb44c4fa0-container.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/autoclass29期/day09-12/ecshop_api_test/reports/report_data/ffef8cad-c4df-4875-aadf-329170f5b29c-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zidonghualianxi练习/temps/01beef3b-4d6b-4db9-804d-48c016fc7a65-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zidonghualianxi练习/temps/1306e288-d705-4a7a-98ba-d62b94a1216d-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zidonghualianxi练习/temps/53dbb269-de37-4292-80b2-edcc2b319b1b-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zidonghualianxi练习/temps/cf2b9189-d525-4cc4-a633-63b48c64884c-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zidonghualianxi练习/temps/d317883a-bb35-4574-b2cb-499219f600de-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zidonghualianxi练习/testcases/conftest.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/autoclass29期/day09-12/ecshop_api_test" beforeDir="false" afterPath="$PROJECT_DIR$/autoclass29期/day09-12/ecshop_api_test" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/autoclass29期/day09-12/ecshop_api_test/conftest.py" beforeDir="false" afterPath="$PROJECT_DIR$/autoclass29期/day09-12/ecshop_api_test/conftest.py" afterDir="false" />
@@ -127,6 +133,10 @@
       <change beforePath="$PROJECT_DIR$/autoclass_29练习/day09-12/ecshop_api_test/testdata/only_api/user_center/test_user_login_data.csv" beforeDir="false" afterPath="$PROJECT_DIR$/autoclass_29练习/day09-12/ecshop_api_test/testdata/only_api/user_center/test_user_login_data.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ecshop_api_test" beforeDir="false" afterPath="$PROJECT_DIR$/ecshop_api_test" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ecshop_api_test/testcase/user_center/test_login.py" beforeDir="false" afterPath="$PROJECT_DIR$/ecshop_api_test/testcase/user_center/test_login.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zidonghualianxi练习/temps/972f633d-edcb-42c6-8c70-03db4d3061f6-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zidonghualianxi练习/temps/9a7b36ec-9da2-44fb-b1eb-e0095ce8409f-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zidonghualianxi练习/temps/bea15345-1059-4d58-b268-d16390b15ab2-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zidonghualianxi练习/testcases/test_api.py" beforeDir="false" afterPath="$PROJECT_DIR$/zidonghualianxi练习/testcases/test_api.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -170,24 +180,24 @@
     <option name="openDirectoriesWithSingleClick" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "D:/python_files",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/python_files&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\python_files" />
@@ -334,7 +344,8 @@
       <workItem from="1746630174188" duration="5579000" />
       <workItem from="1746635884160" duration="468000" />
       <workItem from="1746636500147" duration="45396000" />
-      <workItem from="1746962009264" duration="6639000" />
+      <workItem from="1746962009264" duration="8778000" />
+      <workItem from="1747061949551" duration="2700000" />
     </task>
     <task id="LOCAL-00001" summary="全部">
       <option name="closed" value="true" />
@@ -382,7 +393,7 @@
     <SUITE FILE_PATH="coverage/python_files$pytest__test_demo02_testcase_py__.coverage" NAME="pytest (test_demo02-testcase.py 内) 覆盖结果" MODIFIED="1720363074833" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonProject10/pythonclasses/autoclass29/day03" />
     <SUITE FILE_PATH="coverage/python_files$main.coverage" NAME="main 覆盖结果" MODIFIED="1746717894325" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/eashop_api_test" />
     <SUITE FILE_PATH="coverage/python_files$login_TestApi_test_select__pytest.coverage" NAME="login.TestApi.test_select 的 pytest 覆盖结果" MODIFIED="1746885173375" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/zidonghualianxi/testcase" />
-    <SUITE FILE_PATH="coverage/python_files$run.coverage" NAME="run 覆盖结果" MODIFIED="1746965887492" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/zidonghualianxi练习" />
+    <SUITE FILE_PATH="coverage/python_files$run.coverage" NAME="run 覆盖结果" MODIFIED="1747063372042" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/zidonghualianxi练习" />
     <SUITE FILE_PATH="coverage/python_files$test_04_fixture_Test01__pytest.coverage" NAME="test_04_fixture.Test01 的 pytest 覆盖结果" MODIFIED="1720628999670" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonProject10/pythonclasses/autoclass29/day03" />
     <SUITE FILE_PATH="coverage/python_files$csv_demo02.coverage" NAME="读取csv-demo02 覆盖结果" MODIFIED="1745249434252" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2025_4_19JieKoulianxi/day09" />
     <SUITE FILE_PATH="coverage/python_files$login_TestApi_test_login__pytest.coverage" NAME="login.TestApi.test_login 的 pytest 覆盖结果" MODIFIED="1746887123300" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/zidonghualianxi/testcase" />
