@@ -116,7 +116,6 @@
       <change afterPath="$PROJECT_DIR$/autoclass29期/day09-12/ecshop_api_test/reports/report_data/fcc40bca-06f8-466a-9300-1b8ffb38f1d3-result.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/autoclass29期/day09-12/ecshop_api_test/reports/report_data/fee70b04-57d3-48ff-b3d9-d2bfb44c4fa0-container.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/autoclass29期/day09-12/ecshop_api_test/reports/report_data/ffef8cad-c4df-4875-aadf-329170f5b29c-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zidonghualianxi/testcase/testjson.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/autoclass29期/day09-12/ecshop_api_test" beforeDir="false" afterPath="$PROJECT_DIR$/autoclass29期/day09-12/ecshop_api_test" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/autoclass29期/day09-12/ecshop_api_test/conftest.py" beforeDir="false" afterPath="$PROJECT_DIR$/autoclass29期/day09-12/ecshop_api_test/conftest.py" afterDir="false" />
@@ -129,7 +128,6 @@
       <change beforePath="$PROJECT_DIR$/ecshop_api_test" beforeDir="false" afterPath="$PROJECT_DIR$/ecshop_api_test" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ecshop_api_test/testcase/user_center/test_login.py" beforeDir="false" afterPath="$PROJECT_DIR$/ecshop_api_test/testcase/user_center/test_login.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/zidonghualianxi/testcase/login后台.py" beforeDir="false" afterPath="$PROJECT_DIR$/zidonghualianxi/testcase/login后台.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/zidonghualianxi/testcase/转换为json.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -207,7 +205,7 @@
       <recent name="D:\python_files\2025_4_19JieKoulianxi\day09\ecshop_api_test\api\only_api" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python 测试.pytest (login后台.py 内)">
     <configuration name="login后台.TestApi.test_NewProduct 的 pytest" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="python_files" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -225,7 +223,7 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="login后台.test_NewProduct 的 pytest" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="login后台.TestApi.test_login 的 pytest" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="python_files" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -238,11 +236,11 @@
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_parameters" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;login后台.test_NewProduct&quot;" />
+      <option name="_new_target" value="&quot;login后台.TestApi.test_login&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="testcase.testjson.TestApi.test_new_product 的 pytest" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="pytest (login后台.py 内)" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="python_files" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -255,8 +253,25 @@
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_parameters" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;testcase.testjson.TestApi.test_new_product&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/zidonghualianxi/testcase/login后台.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest (testjson.py 内)" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="python_files" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/zidonghualianxi/testcase" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/zidonghualianxi/testcase/testjson.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
     <configuration name="testjson.TestApi 的 pytest" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
@@ -276,37 +291,20 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="testjson.TestApi.test_new_product 的 pytest" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
-      <module name="python_files" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/zidonghualianxi/testcase" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="_new_keywords" value="&quot;&quot;" />
-      <option name="_new_parameters" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;testjson.TestApi.test_new_product&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
     <list>
       <item itemvalue="Python 测试.login后台.TestApi.test_NewProduct 的 pytest" />
-      <item itemvalue="Python 测试.login后台.test_NewProduct 的 pytest" />
-      <item itemvalue="Python 测试.testcase.testjson.TestApi.test_new_product 的 pytest" />
+      <item itemvalue="Python 测试.login后台.TestApi.test_login 的 pytest" />
+      <item itemvalue="Python 测试.pytest (testjson.py 内)" />
       <item itemvalue="Python 测试.testjson.TestApi 的 pytest" />
-      <item itemvalue="Python 测试.testjson.TestApi.test_new_product 的 pytest" />
+      <item itemvalue="Python 测试.pytest (login后台.py 内)" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python 测试.testjson.TestApi 的 pytest" />
-        <item itemvalue="Python 测试.testjson.TestApi.test_new_product 的 pytest" />
-        <item itemvalue="Python 测试.testcase.testjson.TestApi.test_new_product 的 pytest" />
+        <item itemvalue="Python 测试.pytest (login后台.py 内)" />
         <item itemvalue="Python 测试.login后台.TestApi.test_NewProduct 的 pytest" />
-        <item itemvalue="Python 测试.login后台.test_NewProduct 的 pytest" />
+        <item itemvalue="Python 测试.login后台.TestApi.test_login 的 pytest" />
+        <item itemvalue="Python 测试.pytest (testjson.py 内)" />
+        <item itemvalue="Python 测试.testjson.TestApi 的 pytest" />
       </list>
     </recent_temporary>
   </component>
@@ -333,7 +331,7 @@
       <workItem from="1746635884160" duration="468000" />
       <workItem from="1746636500147" duration="45396000" />
       <workItem from="1746962009264" duration="8778000" />
-      <workItem from="1747061949551" duration="12194000" />
+      <workItem from="1747061949551" duration="22998000" />
     </task>
     <task id="LOCAL-00001" summary="全部">
       <option name="closed" value="true" />
@@ -367,6 +365,7 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/python_files$demo03___1_.coverage" NAME="demo03_下拉框操作 (1) 覆盖结果" MODIFIED="1717838106031" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonProject10/pythonclasses/autoclass29/day01" />
+    <SUITE FILE_PATH="coverage/python_files$pytest__testjson_py__.coverage" NAME="pytest (testjson.py 内) 覆盖结果" MODIFIED="1747446668864" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/zidonghualianxi/testcase" />
     <SUITE FILE_PATH="coverage/python_files$pytest__test_py__.coverage" NAME="pytest (test.py 内) 覆盖结果" MODIFIED="1746943579160" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/zidonghualianxi/testcase" />
     <SUITE FILE_PATH="coverage/python_files$login_test_NewProduct__pytest.coverage" NAME="login后台.test_NewProduct 的 pytest 覆盖结果" MODIFIED="1747238783436" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/zidonghualianxi/testcase" />
     <SUITE FILE_PATH="coverage/python_files$json_TestApi_test_new_product__pytest.coverage" NAME="转换为json.TestApi.test_new_product 的 pytest 覆盖结果" MODIFIED="1747239544575" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/zidonghualianxi/testcase" />
@@ -376,9 +375,9 @@
     <SUITE FILE_PATH="coverage/python_files$demo01_.coverage" NAME="demo01_单选框操作 覆盖结果" MODIFIED="1744130058706" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonProject10/pythonclasses/autoclass29/day01" />
     <SUITE FILE_PATH="coverage/python_files$pytest__test_demo02_testcase_py__.coverage" NAME="pytest (test_demo02-testcase.py 内) 覆盖结果" MODIFIED="1720363074833" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonProject10/pythonclasses/autoclass29/day03" />
     <SUITE FILE_PATH="coverage/python_files$login_TestApi_test_select__pytest.coverage" NAME="login.TestApi.test_select 的 pytest 覆盖结果" MODIFIED="1746885173375" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/zidonghualianxi/testcase" />
-    <SUITE FILE_PATH="coverage/python_files$login_TestApi_test_login__pytest.coverage" NAME="login.TestApi.test_login 的 pytest 覆盖结果" MODIFIED="1746887123300" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/zidonghualianxi/testcase" />
+    <SUITE FILE_PATH="coverage/python_files$login_TestApi_test_login__pytest.coverage" NAME="login后台.TestApi.test_login 的 pytest 覆盖结果" MODIFIED="1747446795546" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/zidonghualianxi/testcase" />
     <SUITE FILE_PATH="coverage/python_files$test_login_test_login__pytest.coverage" NAME="test_login.test_login 的 pytest 覆盖结果" MODIFIED="1746633890890" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/a2025_4_19JieKoulianxi/day09/ecshop_api_test/testcase/user_center" />
-    <SUITE FILE_PATH="coverage/python_files$login_TestApi_test_NewProduct__pytest.coverage" NAME="login后台.TestApi.test_NewProduct 的 pytest 覆盖结果" MODIFIED="1747239176608" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/zidonghualianxi/testcase" />
+    <SUITE FILE_PATH="coverage/python_files$login_TestApi_test_NewProduct__pytest.coverage" NAME="login后台.TestApi.test_NewProduct 的 pytest 覆盖结果" MODIFIED="1747446811024" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/zidonghualianxi/testcase" />
     <SUITE FILE_PATH="coverage/python_files$pytest__test_login_py__.coverage" NAME="pytest (test_login.py 内) 覆盖结果" MODIFIED="1746719366693" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/autoclass29期/day09-12/ecshop_api_test/testcase/user_center" />
     <SUITE FILE_PATH="coverage/python_files$test_04_fixture_Test01_test01__pytest.coverage" NAME="test_04_fixture.Test01.test01 的 pytest 覆盖结果" MODIFIED="1720628983252" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonProject10/pythonclasses/autoclass29/day03" />
     <SUITE FILE_PATH="coverage/python_files$demo02_.coverage" NAME="demo02_复选框操作 覆盖结果" MODIFIED="1744130082268" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonProject10/pythonclasses/autoclass29/day01" />
@@ -413,7 +412,7 @@
     <SUITE FILE_PATH="coverage/python_files$test03__test01__pytest.coverage" NAME="test03_断言.test01 的 pytest 覆盖结果" MODIFIED="1720457434471" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonProject10/pythonclasses/autoclass29/day03" />
     <SUITE FILE_PATH="coverage/python_files$test_04_fixture_Test01_test02__pytest.coverage" NAME="test_04_fixture.Test01.test02 的 pytest 覆盖结果" MODIFIED="1720628328462" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonProject10/pythonclasses/autoclass29/day03" />
     <SUITE FILE_PATH="coverage/python_files$pytest__test_05_fixture_py__.coverage" NAME="pytest (test_05_fixture的使用.py 内) 覆盖结果" MODIFIED="1720715688547" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonProject10/pythonclasses/autoclass29/day03" />
-    <SUITE FILE_PATH="coverage/python_files$pytest__login_py__.coverage" NAME="pytest (login后台.py 内) 覆盖结果" MODIFIED="1747239932899" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/zidonghualianxi/testcase" />
+    <SUITE FILE_PATH="coverage/python_files$pytest__login_py__.coverage" NAME="pytest (login后台.py 内) 覆盖结果" MODIFIED="1748993560906" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/zidonghualianxi/testcase" />
     <SUITE FILE_PATH="coverage/python_files$main__1_.coverage" NAME="main (1) 覆盖结果" MODIFIED="1722359322870" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonProject10/pythonclasses/autoclass29/day03" />
     <SUITE FILE_PATH="coverage/python_files$demo03_.coverage" NAME="demo03_文件操作 覆盖结果" MODIFIED="1744209178905" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonProject10/pythonclasses/autoclass29/day01" />
     <SUITE FILE_PATH="coverage/python_files$demo01_options.coverage" NAME="demo01-options 覆盖结果" MODIFIED="1718205186148" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonProject10/pythonclasses/autoclass29/day02" />
